@@ -42,7 +42,7 @@ UI_20150317_000041	{@st44}Abbrechen{/}
 UI_20150317_000042	{@st43}{s22}Friseur{/}
 UI_20150317_000043	{@st59}vorherige Frisur{/}
 UI_20150317_000044	{@st59}Nächste Frisur{/}
-UI_20150317_000045	{@st41b} Ändern {s18} (100 TPs erforderlich) {/}
+UI_20150317_000045	{@st41b}Ändern{s18} (100 TPs erforderlich) {/}
 UI_20150317_000046	{@st59}Change to selected hairstyle.{/}
 UI_20150317_000047	{@st41}Abbrechen
 UI_20150317_000048	{@st43}Schwarzmarkt{/}
@@ -89,8 +89,8 @@ UI_20150317_000088	{@st43} Advancement
 UI_20150317_000089	{@sti7}{s14} Charakter {/}
 UI_20150317_000090	{@sti8}{s14} Klasse {/}
 UI_20150317_000091	{@st44}Chat{/}
-UI_20150317_000092	To. WWWWWWWW and 1 other
-UI_20150317_000093	Allgemein: /s chat {nl} Global: /y chat {nl} Party: /p chat{nl} Flüsternr: /w character's username chat
+UI_20150317_000092	To. and 1 other
+UI_20150317_000093	Allgemein: /s chat {nl} Global: /y chat {nl} Party: /p chat{nl} Flüstern: /w character's username chat
 UI_20150317_000094	{@st41}Alle Chats{/}
 UI_20150317_000095	{@59}Quit{/}
 UI_20150317_000096	{@59}Einladen{/}
@@ -143,23 +143,23 @@ UI_20150317_000142	{@st43}Companion Adoption
 UI_20150317_000143	{@st59}Enter the name of your newly adopted companion {/}
 UI_20150317_000144	{@st41b}Name{/}
 UI_20150317_000145	{@st41b}Preis %s{/}
-UI_20150317_000146	{@st59}schließen{/}
+UI_20150317_000146	{@st59}Schließen{/}
 UI_20150317_000147	{@st41b}Adoptieren
 UI_20150317_000148	{@st59}Bestätigen{/}
 UI_20150317_000149	{@st43}Gefährten-Laden
 UI_20150317_000150	{@st59}Schließen{/}
 UI_20150317_000151	{@st43}Weitere Charakter Info{/}{@st42}
 UI_20150317_000152	{@st59}Schließen{/}
-UI_20150317_000153	{@st41b}Information
+UI_20150317_000153	{@st41b}Informationen
 UI_20150317_000154	{@st41b}Record
 UI_20150317_000155	Team Name
-UI_20150317_000156	Charakter Name
+UI_20150317_000156	Charaktername
 UI_20150317_000157	Circle {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}
 UI_20150317_000158	Krieger
 UI_20150317_000159	Abenteuer Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
 UI_20150317_000160	Abenteuer Index {#ffff00}%s{/} ({#ffff00}Unranked{/})
 UI_20150317_000161	Erfolge gesamt : {#ffff00}%s{/}
-UI_20150317_000162	Eisntellungen
+UI_20150317_000162	Einstellungen
 UI_20150317_000163	Clear the tab title to delete the tab.
 UI_20150317_000164	{@st49}Alle{/}
 UI_20150317_000165	{@st49}System{/}
@@ -213,7 +213,7 @@ UI_20150317_000212	{@st59b}Freunde{nl}{@st59s} - Become friends with other playe
 UI_20150317_000213	{@st41b}Zeige Online{/}
 UI_20150317_000214	{@st41b}Liste
 UI_20150317_000215	{@st41b}Manage
-UI_20150317_000216	{@st41b}Sende eine Freundschaftsanfrage
+UI_20150317_000216	{@st41b}Sende eine Anfrage
 UI_20150317_000217	{@st41b}Blockieren
 UI_20150317_000218	{@st59}Suchen{/}
 UI_20150317_000219	{@st44}Gilde{/}
@@ -238,7 +238,7 @@ UI_20150317_000237	{@st42}Suche ID{/}
 UI_20150317_000238	Enter the ID to search
 UI_20150317_000239	Close the Hall of Fame
 UI_20150317_000240	Enter the ID to search
-UI_20150317_000241	{@st59} Stamina {/}
+UI_20150317_000241	{@st59}Stamina{/}
 UI_20150317_000242	{@st43}Tipps{/}
 UI_20150317_000243	{@st59}Schließen{/}
 UI_20150317_000244	{@st59b}Tipps{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}
@@ -251,7 +251,7 @@ UI_20150317_000250	{@st59}Enter the contents{/}
 UI_20150317_000251	{@st41b}Bestätigen
 UI_20150317_000252	{@st59}Bestätigen{/}
 UI_20150317_000253	{@st41b}Schließen
-UI_20150317_000254	{@st59}Abbrechen {/}
+UI_20150317_000254	{@st59}Abbrechen{/}
 UI_20150317_000255	{@st43}Warp{/}
 UI_20150317_000256	{@st59}Schließen{/}
 UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Allows you to quickly travel to regions you have already visited. {nl} - Feature is activated when two or more warp points are available. {nl} {/}
@@ -264,17 +264,17 @@ UI_20150317_000263	Intro
 UI_20150317_000264	{@st43}Inventar{/}
 UI_20150317_000265	{@st59}Schließen{/}
 UI_20150317_000266	{@st59b}Ausrüstung {nl} {@st59s}- Hair/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
-UI_20150317_000267	{@st59}Hair Costume 1{/}
-UI_20150317_000268	{@st59}Hair Costume 2{/}
+UI_20150317_000267	{@st59}Kopfschmuck 1{/}
+UI_20150317_000268	{@st59}Kopfschmuck 2{/}
 UI_20150317_000269	{@st59}Halskette{/}
-UI_20150317_000270	{@st59}Kostüm{/}
-UI_20150317_000271	{@st59}Kopf{/}
+UI_20150317_000270	{@st59}Kostuem{/}
+UI_20150317_000271	{@st59}Oberteil{/}
 UI_20150317_000272	{@st59}Handschuhe{/}
 UI_20150317_000273	{@st59}Hose{/}
 UI_20150317_000274	{@st59}Schuhe{/}
 UI_20150317_000275	{@st59}Linke Hand{/}
 UI_20150317_000276	{@st59}Rechte Hand{/}
-UI_20150317_000277	{@st59}Amreif 1{/}
+UI_20150317_000277	{@st59}Armreif 1{/}
 UI_20150317_000278	{@st59}Armreif 2{/}
 UI_20150317_000279	{@st59}Armband{/}
 UI_20150317_000280	{@st59}Suche{/}
