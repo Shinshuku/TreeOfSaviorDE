@@ -127,9 +127,9 @@ UI_20150317_000126	{s16}{b}ea
 UI_20150317_000127	{s16}{b}Select a desired area.
 UI_20150317_000128	{s18}{b}Zeige Minimap{/}
 UI_20150317_000129	{@st41b}Tool Liste{/}
-UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
+UI_20150317_000130	{@st59b}Sammlung {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
 UI_20150317_000131	{@st59}Schließen{/}
-UI_20150317_000132	{@st43}Collection{/}
+UI_20150317_000132	{@st43}Sammlung{/}
 UI_20150317_000133	{@st43}Color Spray{/}
 UI_20150317_000134	{@st49}Color Spray{/}
 UI_20150317_000135	{@st49}Farbe{/}
@@ -547,16 +547,16 @@ UI_20150317_000547	{@st41}Tutorial ueberspringen{/}
 UI_20150317_000548	{@st41}Characterauswahl{/}
 UI_20150317_000549	{@st41}Ausloggen{/}
 UI_20150317_000550	{@st41}Spiel schließen{/}
-UI_20150317_000551	{@st41}Go Back{/}
+UI_20150317_000551	{@st41}Geh zurueck{/}
 UI_20150317_000552	{@st43}{s22}Gather for the raid!
-UI_20150317_000553	{@st41b}Monsters are approaching the outskirts of the town castle. Only you can stop them.
+UI_20150317_000553	{@st41b}Monster naehern sich der Stadt! Nur du kannst sie aufhalten.
 UI_20150317_000554	{@st43}{s22}Einstellungen{/}
 UI_20150317_000555	{@sti7}Searching for a raid party...{/}
 UI_20150317_000556	{@st41b}Cancel participation
 UI_20150317_000557	{@st41b}Ueberlasst das mir!
 UI_20150317_000558	{@st41b}Ich denke nicht das ich diesemal eine große Hilfe sein werde...
-UI_20150317_000559	{@sti7}{s24}Select Raid Rewards{/}
-UI_20150317_000560	{@st42b}Remaining time {@st43}%s{@st42b} seconds{/}
+UI_20150317_000559	{@sti7}{s24}Waehle eine Raidbelohnung{/}
+UI_20150317_000560	{@st42b}Verbleibende Zeit {@st43}%s{@st42b} Sekunden{/}
 UI_20150317_000561	{@st41b}Increase the number of selections
 UI_20150317_000562	{@43b}{s22} No. of times selectable : {@st43}%s{/}
 UI_20150317_000563	shadow_box tentativeremoval
@@ -568,10 +568,10 @@ UI_20150317_000568	{@st41}Money Money Top 100{/}
 UI_20150317_000569	{@st41}Level Up Top 100{/}
 UI_20150317_000570	{@st41b}Menue{/}
 UI_20150317_000571	{@st43}{s22}Enhance Item{/}
-UI_20150317_000572	{@st41b}Selected Item
+UI_20150317_000572	{@st41b}Ausgewaehltes Item
 UI_20150317_000573	{@st41b}Anvil
 UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s
-UI_20150317_000575	{@st41} {s20}Price : %s
+UI_20150317_000575	{@st41} {s20}Preis : %s
 UI_20150317_000576	{@st41b}Enhance{/}
 UI_20150317_000577	{@st59}Start Item Enhancement{/}
 UI_20150317_000578	{@st59}Schließen{/}
@@ -946,9 +946,9 @@ UI_20150317_000946	{@St59}Einstellungen{/}
 UI_20150317_000947	{@St59}Schließen{/}
 UI_20150317_000948	{@st43}Lodge Settings{/}
 UI_20150317_000949	{@st59}Schließen{/}
-UI_20150317_000950	{@St42_b}{s18}{#f5c384}Team Name{/}
-UI_20150317_000951	{@st59}Enter Team name {/}
-UI_20150317_000952	{@st59}Save Team Name{/}
+UI_20150317_000950	{@St42_b}{s18}{#f5c384}Teamname{/}
+UI_20150317_000951	{@st59}Gib einen Teamname ein{/}
+UI_20150317_000952	{@st59}Speicher den Teamnamen{/}
 UI_20150317_000953	Provisional Delete
 UI_20150317_000954	{@St59}Schließen{/}
 UI_20150317_000955	{@St43}Lodge Decorating{/}
@@ -961,13 +961,13 @@ UI_20150317_000961	{@St44}Neuer Charakter{/}
 UI_20150317_000962	{@St41b}{s22}Waehle die Charakterklasse{/}
 UI_20150317_000963	{@St41b}Zurück{/}
 UI_20150317_000964	{@St59}Kehre zur Lodge zurück ohne einen Charakter zu erstellen.
-UI_20150317_000965	Change Character
+UI_20150317_000965	Wechsel Charakter
 UI_20150317_000966	{@St41}Charakter{/}
-UI_20150317_000967	{@St59}Rotate clockwise{/}
-UI_20150317_000968	{@St59}Rotate counterclockwise{/}
+UI_20150317_000967	{@St59}Rotate im Uhrzeigersinn{/}
+UI_20150317_000968	{@St59}Rotate gegen den Uhrzeigersinn{/}
 UI_20150317_000969	{@St43b}Charakter Rotieren{/}
 UI_20150317_000970	{@st43}Charaktername{/}
-UI_20150317_000971	Enter a name{@st59} {/}
+UI_20150317_000971	Gib einen Namen ein{@st59} {/}
 UI_20150317_000972	{@St43b}Wähle das Geschlecht{/}
 UI_20150317_000973	{@St59}Weiblich{/}
 UI_20150317_000974	{@St59}Maennlich{/}
@@ -1003,14 +1003,14 @@ UI_20150317_001003	{@st59}Change Team Name{/}
 UI_20150317_001004	{@St41}Gefaehrte{/}
 UI_20150317_001005	Chat Drag
 UI_20150317_001006	{@St44}New Dialog Name{/}
-UI_20150317_001007	{@St42}Change{/}
+UI_20150317_001007	{@St42}Aendern{/}
 UI_20150317_001008	{@St44}New Window Name{/}
 UI_20150317_001009	{@St43}{s40}{gr gradation4}Character Creation{/}
 UI_20150317_001010	{@St59}Erstelle einen Charakter{/}
-UI_20150317_001011	{@St59}Charakterstellung abbrechen{/}
+UI_20150317_001011	{@St59}Charaktererstellung abbrechen{/}
 UI_20150317_001012	{@St59}Schließen{/}
 UI_20150317_001013	{@St59}Create a team with the entered name{/}
-UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!
+UI_20150317_001014	{@St43}{s30}{#f0dcaa}Gib deinen Teamnamen ein!
 UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, guild joining, conversation and more.{nl}         Team Name can be changed at any time using 150 TP.{/}
 UI_20150317_001016	Loading background
 UI_20150317_001017	Tip
@@ -1182,7 +1182,7 @@ UI_20150317_001182	{@St42}EXP teilen{/}
 UI_20150317_001183	Character Memo
 UI_20150317_001184	Average Party Level : {#FFFF00}%s{/}
 UI_20150317_001185	Searching For : {#FFFF00}%s{/}
-UI_20150317_001186	Cleric / Archer
+UI_20150317_001186	Kleriker / Bogenschuetze
 UI_20150317_001187	Quest Sharing : {#FFFF00}%s{/}
 UI_20150317_001188	N/A
 UI_20150317_001189	EXP Distribution : {#FFFF00}%s{/}
@@ -1321,7 +1321,7 @@ UI_20150323_001321	Secondary Card
 UI_20150323_001322	Stat
 UI_20150323_001323	KON
 UI_20150323_001324	INT
-UI_20150323_001325	GEW
+UI_20150323_001325	GES
 UI_20150323_001326	CRT
 UI_20150323_001327	{@st43}Set up Shop{/}
 UI_20150323_001328	{@st41b}Einstellungen
@@ -1732,7 +1732,7 @@ UI_20150717_001732	{@st41b}             A Team Name represents all your characte
 UI_20150729_001733	{@st42}Show only attributes that can be learned{/}
 UI_20150729_001734	Leg Count
 UI_20150729_001735	Key
-UI_20150729_001736	Weight
+UI_20150729_001736	Traglast
 UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
 UI_20150729_001739	{@st59}Close Arrow Crafting{/}
@@ -1785,10 +1785,10 @@ UI_20150918_001785	{#000000}Entry Level{/}
 UI_20150918_001786	{#000000}Entry Count{/}
 UI_20150918_001787	{#000000}The number of entries will reset at %s.{/}
 UI_20150918_001788	{img silver 20 20} Price
-UI_20150918_001789	Nearby Party Info
+UI_20150918_001789	Parties in der Naehe
 UI_20150918_001790	Required Fragments : %s 
-UI_20150918_001791	{@st66b}Empty
-UI_20150918_001792	{@st42}Show Nearby Parties{/}
+UI_20150918_001791	{@st66b}Leer
+UI_20150918_001792	{@st42}Zeige Parties in der Naehe{/}
 UI_20150918_001793	Friendship with {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
 UI_20150918_001794	Friendship
 UI_20150918_001795	{@st41b}Obtained material for item crafting!
@@ -1827,7 +1827,7 @@ UI_20151022_001827	{#000000}{s18}The server is currently full. Queuing for entry
 UI_20151022_001828	{#000000}{s18}Current Position : %s
 UI_20151022_001829	{@st66b}Show Other Character's Effects
 UI_20151102_001830	TP
-UI_20151224_001831	{@st41b}Change{s18}(Requires 100 TP){/}
+UI_20151224_001831	{@st41b}Aendern{s18}(Benoetigt 100 TP){/}
 UI_20151224_001832	Consume Quantity
 UI_20151224_001833	Quantity Available
 UI_20151224_001834	{@st43}Spell Sell Shop{/}
@@ -1886,7 +1886,7 @@ UI_20151224_001886	{@st59}Zoom Out{/}
 UI_20151224_001887	{@st59}Show Last Warp Point{/}
 UI_20151224_001888	{@st59}Show Current Location{/}
 UI_20151224_001889	{@st59}Hair Costume 3{/}
-UI_20151224_001890	{@st59}Hairstyle{/}
+UI_20151224_001890	{@st59}Frisur{/}
 UI_20151224_001891	{@st41b}Cancel
 UI_20151224_001892	{@st41b}Confirm
 UI_20151224_001893	{@st66b}Roasting{/}
@@ -1896,7 +1896,7 @@ UI_20151224_001896	{@st66b}Maintenance{/}
 UI_20151224_001897	{@st66b}Repair{/}
 UI_20151224_001898	{@st41}Skill Level
 UI_20151224_001899	{@st41}Riches Material
-UI_20151224_001900	{@st66b}Dismiss Helper (Requires %s TP){/}
+UI_20151224_001900	{@st66b}Dismiss Helper (Benoetigt %s TP){/}
 UI_20151224_001901	{@st66b}Full Map{/}
 UI_20151224_001902	{@st59}Show Full Map{/}
 UI_20151224_001903	{ol}Message
@@ -1933,10 +1933,10 @@ UI_20151224_001933	{@st66b}Party Event{/}
 UI_20151224_001934	{@st66b}Einstellungen{/}
 UI_20151224_001935	{@st42b}Save{/}
 UI_20151224_001936	{@st41}Party Name & Description{/}
-UI_20151224_001937	Show Nearby Parties
-UI_20151224_001938	Public Party
+UI_20151224_001937	Zeige Parties in der Naehe
+UI_20151224_001938	OEffentliche Party
 UI_20151224_001939	Lv. Difference
-UI_20151224_001940	Use 'Recommend Party'
+UI_20151224_001940	Benutze 'Empfohlene Party'
 UI_20151224_001941	{@st66b}Insert Party Invite Tag
 UI_20151224_001942	Competitive Mission
 UI_20151224_001943	Unit
@@ -1944,9 +1944,9 @@ UI_20151224_001944	{@st41b}Enter
 UI_20151224_001945	{@st66b}Public Party List{/}
 UI_20151224_001946	{@st66b}Recommended Player List{/}
 UI_20151224_001947	Life
-UI_20151224_001948	{@st43}Message Box
-UI_20151224_001949	{@st66b}All
-UI_20151224_001950	{@st66b}Unread
+UI_20151224_001948	{@st43}Nachrichten-Box
+UI_20151224_001949	{@st66b}Alle
+UI_20151224_001950	{@st66b}Ungelesen
 UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quests window.{nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue.{nl} - The arrow on your character's foot leads to the location of your quest{nl} - A 'Return' icon is displayed in the quests window when a quest is completed{nl}  (Teleports you to the Quest NPC using the Backspace key or a mouse-click){nl} - Add or remove quests in the quests window by ticking or unticking the box in front of the quest name{/}
 UI_20151224_001952	{@st66b}  In Arbeit  {/}
 UI_20151224_001953	{@st66b}  Abgelehnt  {/}
@@ -2282,7 +2282,7 @@ UI_20160811_002282	{@sti1c}Weekly Rankings{/}
 UI_20160811_002283	{@st66b}Uphill Defense{/}
 UI_20160811_002284	Level in ascending order{/}
 UI_20160811_002285	Level in descending order{/}
-UI_20160811_002286	{img %s 12 12}{/} {@st66b}{s18}Monster Card{/}
+UI_20160811_002286	{img %s 12 12}{/} {@st66b}{s18}Monsterkarten{/}
 UI_20160811_002287	Transcend Item
 UI_20160811_002288	Transcendence
 UI_20160811_002289	{@st59b}Transcend Item{nl}{@st59s}- Another way to enhance the item's performance other than by the anvil{nl}- Items that can transcend : Weapons, armor and accessories{nl}- Transcendence Success Rate = Used Ingredients / Maximum Required Ingredients{nl}- Increases Transcendence Stage by 1 on success (Maximum of 10 Stages){nl}- Decreases Transcendence Stage by 1 on failure (No Potential loss){nl}- Transcended items cannot be traded{/}
@@ -2334,10 +2334,10 @@ UI_20161005_002334	{@st66b}Details
 UI_20161005_002335	{@st66b}War
 UI_20161005_002336	{@st43}Homunculus Info{/}
 UI_20161005_002337	Duration
-UI_20161005_002338	{@st66b}Physical Attack{/}
-UI_20161005_002339	{@st66b}Magic Attack{/}
-UI_20161005_002340	{@st66b}Physical Defense{/}
-UI_20161005_002341	{@st66b}Magic Defense{/}
+UI_20161005_002338	{@st66b}Physischer Angriff{/}
+UI_20161005_002339	{@st66b}Magischer Angriff{/}
+UI_20161005_002340	{@st66b}Physische Vert.{/}
+UI_20161005_002341	{@st66b}Magische Vert.{/}
 UI_20161005_002342	{@st42}Skill Settings{/}
 UI_20161005_002343	{@st66b}Up to four Homonculus AI skills can be set.{nl}Once applied, the set skill cannot be changed.{/}
 UI_20161005_002344	Name{/}
@@ -2346,7 +2346,7 @@ UI_20161005_002346	{@st59}Schließen{/}
 UI_20161005_002347	{@st66d}You cannot revert this when the skill is applied.{nl}Do you wish to proceed?{/}
 UI_20161005_002348	It is a spell voucher that{nl}quickly defeats monsters in an instanced dungeon.
 UI_20161005_002349	Instanced Clear Voucher
-UI_20161005_002350	Warning
+UI_20161005_002350	Warnung
 UI_20161005_002351	 The monsters defeated by the pillar of light{nl}shall not be recorded on the Adventure Journal and{nl}items get dropped near the the pillar of light. Please, be aware of possible item loss.{nl}The used voucher disappears instantly and it can only be used in the instanced dungeon of that count.{/}
 UI_20161005_002352	Do you wish to use a Instanced Clear Voucher?{/}
 UI_20161005_002353	{@st59b}Blessed Gems Extraction{nl}{@st59s}- Extract a Blessed Gem from a transcended item{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transcendence even though the item will be destroyed.{nl}  : Current Success Rate / 40% of the amount of Blessed Gems will be returned. {nl}- You cannot use this when your item is in Stage 0 of Transcendence.{/}
@@ -2363,7 +2363,7 @@ UI_20161005_002363	{@st59}Schließen{/}
 UI_20161005_002364	{@st66b}Saved Portals: %s/%s{/}
 UI_20161005_002365	{@st43}Craft Spellbook
 UI_20161005_002366	{@st43}Switch Gender Shop{/}
-UI_20161005_002367	{@st66b}Change{/}
+UI_20161005_002367	{@st66b}Aendern{/}
 UI_20161005_002368	{@st59}Schließen{/}
 UI_20161005_002369	{img silver 20 20} Price 
 UI_20161005_002370	{@st41b}Open
@@ -2376,9 +2376,9 @@ UI_20161005_002376	{@st67}All the premium items that were gender specific will n
 UI_20161005_002377	Stat
 UI_20161005_002378	{@st66d}{s30}The webpage reached its end. {nl} Klick auf Schließen.{/}
 UI_20161005_002379	View from the Player's POV
-UI_20161005_002380	All Characters
+UI_20161005_002380	Alle Charaktere
 UI_20161005_002381	{@st66e}%s{nl}Change from %s to {@st66d_y}%s{/}
-UI_20161005_002382	{@st66b}Restart{/}
+UI_20161005_002382	{@st66b}Neustart{/}
 UI_20161005_002383	{@st66d_y}%s{/}
 UI_20161005_002384	Selected Option:{nl}%s
 UI_20161005_002385	Guild Attributes & Info
@@ -2488,20 +2488,20 @@ UI_20161214_002488	{@st41b}Activate Multiply Mode
 UI_20161214_002489	{@st41b}Cancel Multiply Mode
 UI_20161214_002490	Multiply Mode Number
 UI_20161214_002491	Please, wait.
-UI_20161214_002492	{@st66b}Equipment{/}
+UI_20161214_002492	{@st66b}Ausruestung{/}
 UI_20161214_002493	{@st66b}Item{/}
 UI_20161214_002494	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transcendence level increases by 1(Max. 10){nl}- If failed, Transcendence level along with potential by 1(Transcendence level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}
 UI_20161214_002495	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracting Blessed Gems from Transcended Items{nl}- Ingredient for Blessed Gem Extraction : Hammer of Dismantlement{nl}- A portion of Blessed Gems used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}
 UI_20161214_002496	{@st66b}Save{/}
 UI_20161214_002497	{@st66b}Show Damage On Other Characters
-UI_20161214_002498	{@st59}Please select a server.{/}
+UI_20161214_002498	{@st59}Waehle einen Server.{/}
 UI_20161214_002499	{@st59}Record FPS and Activate Replay.{/}
 UI_20161214_002500	Current
 UI_20161214_002501	Max.
 UI_20161214_002502	{@st66b}Learn
 UI_20161214_002503	{img white_right_arrow 24 24}{@st66d_y} Total Cost{/}
 UI_20161214_002504	{@brown_16}Guild Participation{/}
-UI_20161214_002505	{@black_18_b}Daily{/}
+UI_20161214_002505	{@black_18_b}Taeglich{/}
 UI_20161214_002506	{@black_18_b}Weekly (Reset every monday){/}
 UI_20161214_002507	{@brown_16}Individual Participation{/}
 UI_20161214_002508	Guild Authority
