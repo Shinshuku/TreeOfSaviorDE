@@ -940,9 +940,9 @@ UI_20150317_000940	{@st59}Edit property{/}
 UI_20150317_000941	{@st42}Save{/}
 UI_20150317_000942	{@st59}Save{/}
 UI_20150317_000943	{@st44}Edit UI properties{/}
-UI_20150317_000944	{@St59}Character Selection{/}
+UI_20150317_000944	{@St59}Charakterauswahl{/}
 UI_20150317_000945	{@St59}Ausloggen{/}
-UI_20150317_000946	{@St59}Eisntellungen{/}
+UI_20150317_000946	{@St59}Einstellungen{/}
 UI_20150317_000947	{@St59}Schließen{/}
 UI_20150317_000948	{@st43}Lodge Settings{/}
 UI_20150317_000949	{@st59}Schließen{/}
@@ -955,7 +955,7 @@ UI_20150317_000955	{@St43}Lodge Decorating{/}
 UI_20150317_000956	{@St41b}Theme{/}
 UI_20150317_000957	{@St41b}Item Arrangement{/}
 UI_20150317_000958	{@St41b}Name
-UI_20150317_000959	{@St41b}Price
+UI_20150317_000959	{@St41b}Preis
 UI_20150317_000960	{@St41b}State
 UI_20150317_000961	{@St44}Neuer Charakter{/}
 UI_20150317_000962	{@St41b}{s22}Waehle die Charakterklasse{/}
@@ -1957,47 +1957,47 @@ UI_20151224_001957	{@st42}%s Benefits{/}
 UI_20151224_001958	Do you want to use this %s?{/}
 UI_20151224_001959	This item will disappear from your inventory{nl}Resets your all Skill Points.
 UI_20151224_001960	{@st41}Use
-UI_20151224_001961	{@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
-UI_20151224_001962	{@st66b}Information{/}
-UI_20151224_001963	{@st66b}Achievements{/}
-UI_20151224_001964	{@st66b}Character Settings{/}
+UI_20151224_001961	{@st59b}Klassen{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
+UI_20151224_001962	{@st66b}Informationen{/}
+UI_20151224_001963	{@st66b}Erfolge{/}
+UI_20151224_001964	{@st66b}Charaktereinstellungen{/}
 UI_20151224_001965	{@st59}Collection (F11){/}
 UI_20151224_001966	{@st66b}Key Settings
 UI_20151224_001967	{@st42}Duration: %s{/}
 UI_20151224_001968	Applies to this %s for %s{nl} and delete %s from inventory
 UI_20151224_001969	Only apply to %s during %s {nl} and delete %s from inventory.{/}
 UI_20151224_001970	The duration of your Token can be seen in Character Settings.
-UI_20151224_001971	{@st59}Close{/}
+UI_20151224_001971	{@st59}Schließen{/}
 UI_20151224_001972	{@st43}{s18}Preview & Purchase
 UI_20151224_001973	Preview
 UI_20151224_001974	Equipped Items TP
 UI_20151224_001975	{@st49}Buy Equipped Item{/}
 UI_20151224_001976	Shopping Bag
-UI_20151224_001977	Available TP
+UI_20151224_001977	Verfuegbare TP
 UI_20151224_001978	Shopping Bag TP
-UI_20151224_001979	Remaining TP
-UI_20151224_001980	{@st49}Confirm Purchase{/}
+UI_20151224_001979	Uebrige TP
+UI_20151224_001980	{@st49}Bestaetige den Einkauf{/}
 UI_20151224_001981	{@st66b}Expand Storage
 UI_20151224_001982	{@st59}Expand Storage{/}
-UI_20151224_001983	{@st42b}Area{/}
-UI_20151224_001984	{@st59}Open Map{/}
-UI_20151224_001985	Number
-UI_20151224_001986	{@st43}Change Team Name{/}
-UI_20151224_001987	{@st59}Change Team Name{/}
-UI_20151224_001988	{@st59}Cancel{/}
-UI_20151224_001989	{@st66b18}Change Team Name{/}
+UI_20151224_001983	{@st42b}Gebiet{/}
+UI_20151224_001984	{@st59}Oeffne die Karte{/}
+UI_20151224_001985	Zahl
+UI_20151224_001986	{@st43}Aendere Teamname{/}
+UI_20151224_001987	{@st59}Andere den Teamnamen{/}
+UI_20151224_001988	{@st59}Abbrechen{/}
+UI_20151224_001989	{@st66b18}Aendere den Teamnamen{/}
 UI_20151224_001990	{@st66b18}Change Lodge{/}
-UI_20151224_001991	{@st66}A Team Name change costs 150 TP{/}
-UI_20151224_001992	{@st59}Enter a name{/}
-UI_20151224_001993	{@st41b}Free TP{/}
-UI_20151224_001994	{@st59}Close{/}
-UI_20151224_001995	{@st43}Lodge Decoration{/}
-UI_20151224_001996	{@st41b}Lodge Visitation{/}
-UI_20151224_001997	{@st59}Visit the lodges of other players.{/}
-UI_20151224_001998	{@st41b}Message Box{/}
-UI_20151224_001999	{@st59}Open the Message Box{/}
-UI_20151224_002000	{@st42}Character{/}
-UI_20151224_002001	{@st42}Free TP{/}
+UI_20151224_001991	{@st66}Eine Namensaenderung kostet 150 TP{/}
+UI_20151224_001992	{@st59}Gib einen Namen ein{/}
+UI_20151224_001993	{@st41b}Freie TP{/}
+UI_20151224_001994	{@st59}Schließen{/}
+UI_20151224_001995	{@st43}Lodge Dekoration{/}
+UI_20151224_001996	{@st41b}Lodge Besuche{/}
+UI_20151224_001997	{@st59}Besuche die Lodge anderer Spieler.{/}
+UI_20151224_001998	{@st41b}Nachrichten-Box{/}
+UI_20151224_001999	{@st59}Oeffne die Nachrichten-Box{/}
+UI_20151224_002000	{@st42}Charakter{/}
+UI_20151224_002001	{@st42}Freie TP{/}
 UI_20151224_002002	{@st42}Event TP{/}
 UI_20151224_002003	{@st41b}Credits{/}
 UI_20151224_002004	{@st59}Credits{/}
@@ -2006,19 +2006,19 @@ UI_20151224_002006	{@st42}Battle System Designer{nl}{@st41b}{s22}Girak Choi{nl}{
 UI_20151224_002007	{@st42}Background Designer{nl}{@st41b}{s22}Roch{nl}Rendering Studio Corp.{nl}Lisa Lee{nl}Dongho Kang{nl}JIN{nl}Yeonew{nl}Moje{nl}Hyunjung Lee{nl} {nl}{@st42}Content Design Manager{nl}{@st41b}{s22}Choungsu Lee{nl} {nl}{@st42}Content Designer{nl}{@st41b}{s22}Ujeong Son{nl}Wonjong Lee{nl}Orange Smith{nl}Jihyun Moon{nl}Jeongsu Kim{nl}Donghun Choe{nl}Seungyoung Jin{nl}Ginyi Lee{nl}Jongwook Moon{nl} {nl}{@st42}Scenario Writer{nl}{@st41b}{s22}Seion Kim{nl} {nl}{@st42}Conworlding Supervisor{nl}{@st41b}{s22}Martynas Siauciunas Kacinskas{nl}Kristina Kudriasova{/}
 UI_20151224_002008	{@st42}Sound Director{nl}{@st41b}{s22}sevin{nl} {nl}{@st42}General Sound Director{nl}{@st41b}{s22}MIGHT{nl} {nl}{@st42}Sound Designer{nl}{@st41b}{s22}VIKCO{nl} {nl}{@st42}UX/UI Manager{nl}{@st41b}{s22}Gilyong Lee{nl} {nl}{@st42}UI Designer{nl}{@st41b}{s22}Jooyeon Seo{nl} {nl}{@st42}DBA{nl}{@st41b}{s22}Manju Han{nl} {nl}{@st42}Quality Assurance Manager{nl}{@st41b}{s22}Yonghyun Kim{nl} {nl}{@st42}Quality Assurance{nl}{@st41b}{s22}Yonghyun Ahn{nl}Eunyoung Park{nl}Mancheol No{nl}Eunyeong Lee{nl}Yebin Lheem{nl}Jaesoon Jang{nl}Jisu Park{/}
 UI_20151224_002009	{@st42}Global Publishing Director{nl}{@st41b}{s22}Moojin Shin{nl} {nl}{@st42}Localization{nl}{@st41b}{s22}Jay{nl}Shawn{nl}Jenny{nl}John{nl} {nl}{@st42}Technical Support{nl}{@st41b}{s22}Kangwoo Kim{nl}Wanjae Lee{nl}Sunyong Lee{nl}Sungkie Park{/}
-UI_20151224_002010	Select Starting City
+UI_20151224_002010	Waehle deine Ausgangsstadt
 UI_20151224_002011	{@st44}Klaipeda
-UI_20151224_002012	{@st59s}A mining town that has progressed thanks to the Crystal Mine.{nl}This city received minor damage during Medzio Diena.{/}
+UI_20151224_002012	{@st59s}Eine, dank dem Kristallabbau, sehr fortschrittliche Stadt.{nl}Sie erlitt durch Medzio Diena nur geringe Schäden.{/}
 UI_20151224_002013	{@st44}Orsha
-UI_20151224_002014	{@st59s}We tried to protect ourselves by relying on the giant castle during Medzio Diena.{nl}But the horrifying disaster even swallowed the castle.{/}
-UI_20151224_002015	{@st59}Return to my Lodge.{/}
+UI_20151224_002014	{@st59s}Wir versuchten uns vor Medzio Diena schützen, indem wir uns auf das Schloss verliessen.{nl}Aber die schreckliche Katastrophe verschlang selbst das dieses.{/}
+UI_20151224_002015	{@st59}Kehre zu deiner Lodge zurueck.{/}
 UI_20151224_002016	{@st43}{s24}Lodge Name{/}
 UI_20151224_002017	{@st59}Lodge Name{/}
 UI_20151224_002018	{@st59}Lodge Settings{/}
 UI_20151224_002019	{@st42}Reset Count
-UI_20151224_002020	{@st41}Message
-UI_20151224_002021	{@st59}Show Quest Dialogue{/}
-UI_20151224_002022	{@st59}Abandon Quest{/}
+UI_20151224_002020	{@st41}Nachricht
+UI_20151224_002021	{@st59}Zeige Questdialog{/}
+UI_20151224_002022	{@st59}Quest aufgeben{/}
 UI_20151224_002023	{@st49}Preview{/}
 UI_20151224_002024	{@st49}Add{/}
 UI_20151224_002025	obtained %s by %s
@@ -2059,10 +2059,10 @@ UI_20160224_002059	Receive a reward and leave.
 UI_20160224_002060	{@st63_yellow}Challenge :{/}
 UI_20160224_002061	Moving to the next floor
 UI_20160224_002062	{@st43}Relic Collector{/}
-UI_20160224_002063	{@st59}Close{/}
+UI_20160224_002063	{@st59}Schließen{/}
 UI_20160224_002064	{@st59b}Exchange Items{nl}{@st59s} - Able to exchange items obtained from the Earth Tower{nl} - The exchange begins after inserting the item ingredients in the slot.{nl}{/}
 UI_20160224_002065	F
-UI_20160224_002066	{@st59}Close{/}
+UI_20160224_002066	{@st59}Schließen{/}
 UI_20160224_002067	{@st59}Place an accessory{/}
 UI_20160224_002068	{@st66b}Opening one more time costs silver.{/}
 UI_20160224_002069	{@st66b}(Up to two times for users with Token benefits){/}
@@ -2106,7 +2106,7 @@ UI_20160224_002106	{@st41b}Quit Spectating
 UI_20160224_002107	Blue Team
 UI_20160224_002108	Red Team
 UI_20160224_002109	{@59}Show in a new window{/}
-UI_20160224_002110	Adventure Journal Updated
+UI_20160224_002110	Aebenteurer-Journal aktualisiert
 UI_20160224_002111	{@st41}Exchange
 UI_20160224_002112	Come to the merry kingdom
 UI_20160224_002113	Team Battle League Schedule
@@ -2131,8 +2131,8 @@ UI_20160224_002131	Defeats : %s
 UI_20160224_002132	Damage : %s
 UI_20160224_002133	Increased maximum buff count
 UI_20160310_002134	{@st65}Damage: %s{/}
-UI_20160310_002135	{@st65}{s12}Achievement{/}
-UI_20160310_002136	{#16120e}Achievement{/}
+UI_20160310_002135	{@st65}{s12}Erfolg{/}
+UI_20160310_002136	{#16120e}Erfolg{/}
 UI_20160310_002137	Count: %s
 UI_20160310_002138	Damage: %s
 UI_20160310_002139	{@sti9}Kill Ranking
@@ -2142,7 +2142,7 @@ UI_20160317_002142	2 extra instance entries for missions and dungeons
 UI_20160323_002143	{@st41} My Summonee Info
 UI_20160323_002144	{@st41} Guild Battle Ranking{/}
 UI_20160323_002145	Guild Battle Ranking
-UI_20160323_002146	{@st59}Close
+UI_20160323_002146	{@st59}Schließen
 UI_20160323_002147	{@st66b} Real-time Standings
 UI_20160323_002148	{@st66b} Weekly Standings
 UI_20160323_002149	{@st66b} All Time Standings{/}
@@ -2153,15 +2153,15 @@ UI_20160323_002153	1st
 UI_20160323_002154	Guild Reward List
 UI_20160323_002155	{@st41}Summoned Creature : {#ffcc33}%s{/}
 UI_20160323_002156	{@st41}Fragments Required : %s
-UI_20160323_002157	ATK : {@st41b}%s
-UI_20160323_002158	DEF : {@st41b}%s
+UI_20160323_002157	ANG : {@st41b}%s
+UI_20160323_002158	VERT : {@st41b}%s
 UI_20160323_002159	STR : {@st41b}%s
-UI_20160323_002160	CON : {@st41b}%s
+UI_20160323_002160	KON : {@st41b}%s
 UI_20160323_002161	INT : {@st41b}%s
-UI_20160323_002162	DEX : {@st41b}%s
+UI_20160323_002162	GES : {@st41b}%s
 UI_20160323_002163	SPR : {@st41b}%s
-UI_20160323_002164	{@st42}Hairstyle Color{/}
-UI_20160323_002165	{@st42}Available Titles{/}
+UI_20160323_002164	{@st42}Haarfarbe{/}
+UI_20160323_002165	{@st42}Verfuegbare Titel{/}
 UI_20160323_002166	Team Info
 UI_20160323_002167	{@st66b}Change Lodge{/}
 UI_20160323_002168	{@st43}{s26}Team Level %s{/}
@@ -2322,13 +2322,13 @@ UI_20161005_002322	Change Appearance
 UI_20161005_002323	{@st45tw2}Material Weapon{/}
 UI_20161005_002324	{@st43}Enchant Armor{/}
 UI_20161005_002325	{@st66b}Enchant{/}
-UI_20161005_002326	{@st59}Close{/}
+UI_20161005_002326	{@st59}Schließen{/}
 UI_20161005_002327	{img silver 20 20} Price
 UI_20161005_002328	 Store Name
 UI_20161005_002329	{@st66b}Shop{/}
 UI_20161005_002330	{img silver 20 20} Price
 UI_20161005_002331	{@st41b}Confirm
-UI_20161005_002332	{@st41b}Close
+UI_20161005_002332	{@st41b}Schließen
 UI_20161005_002333	{img squaier_buff 24 24} 24 hours{/}
 UI_20161005_002334	{@st66b}Details
 UI_20161005_002335	{@st66b}War
@@ -2367,9 +2367,9 @@ UI_20161005_002367	{@st66b}Change{/}
 UI_20161005_002368	{@st59}Close{/}
 UI_20161005_002369	{img silver 20 20} Price 
 UI_20161005_002370	{@st41b}Open
-UI_20161005_002371	Before{/}
-UI_20161005_002372	After{/}
-UI_20161005_002373	{@st66d}Change Gender{/}
+UI_20161005_002371	Vorher{/}
+UI_20161005_002372	Nachher{/}
+UI_20161005_002373	{@st66d}Wechsel das Geschlecht{/}
 UI_20161005_002374	Warning{/}
 UI_20161005_002375	Remove all equipped gear before you proceed{nl}The class costume will be changed along with your gender{/}
 UI_20161005_002376	{@st67}All the premium items that were gender specific will no longer be equippable{/}
