@@ -2248,7 +2248,7 @@ UI_20160718_002248	Unable to Use :
 UI_20160718_002249	Day Hour Minute Second
 UI_20160718_002250	{@st42b}Siauliai{/}
 UI_20160718_002251	{#000000}Score{/}
-UI_20160718_002252	{#000000}%s Points{/}
+UI_20160718_002252	{#000000}%s Punkte{/}
 UI_20160718_002253	Regional GvG Rankings
 UI_20160811_002254	{@st66b18}※ The item is consumed when you change name.{/}
 UI_20160811_002255	{@st42}Show Login Notifications
@@ -2297,20 +2297,20 @@ UI_20160811_002297	Name of (Package) being sold
 UI_20160811_002298	{@st67}{s18} ※ You can only purchase 1 product per account.{/}
 UI_20160811_002299	{@st67}{s18} ※ The Package and all included items are untradable.{/}
 UI_20160811_002300	{@st66d}{s20}Purchase {/}
-UI_20160811_002301	{@st66d}{s20}Cancel{/}
+UI_20160811_002301	{@st66d}{s20}Abbrechen{/}
 UI_20160811_002302	{@st67}{s26}The items cannot be refunded.{/}
 UI_20160811_002303	{@st66d}{s26}Confirm Purchase{/}
-UI_20160811_002304	{@st66d}{s26}No{/}
+UI_20160811_002304	{@st66d}{s26}Nein{/}
 UI_20160811_002305	{@st66d}{s26}Right to Cancel{/}
 UI_20160811_002306	{@st59}View suggested dungeon locations{/}
 UI_20160811_002307	{@st41}Lodge %s (%s/%s){/}
 UI_20160811_002308	{@st59}Move to Lodge.
-UI_20160811_002309	{@st59}Please select a server.{/}
-UI_20160811_002310	{@st59}Please select a server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}
+UI_20160811_002309	{@st59}Wähle einen Server.{/}
+UI_20160811_002310	{@st59}Wähle einen Server.{nl}Die Server Vakarine, Laima, Zemyna und Gabija wurden zum Server Vaivora vereint.{/}
 UI_20160811_002311	{@st66b}Move to other lodge
 UI_20160811_002312	{@st59}Move Lodge.{/}
 UI_20160811_002313	{@st59}Delete Companion
-UI_20160811_002314	You feel better.
+UI_20160811_002314	Du fuehlst dich besser.
 UI_20160811_002315	Carpet-type
 UI_20160811_002316	{@st42b}{s16}Charge{/}
 UI_20160811_002317	{@st66b}{s16}Preview{/}
@@ -2341,8 +2341,8 @@ UI_20161005_002341	{@st66b}Magic Defense{/}
 UI_20161005_002342	{@st42}Skill Settings{/}
 UI_20161005_002343	{@st66b}Up to four Homonculus AI skills can be set.{nl}Once applied, the set skill cannot be changed.{/}
 UI_20161005_002344	Name{/}
-UI_20161005_002345	Settings{/}
-UI_20161005_002346	{@st59}Close{/}
+UI_20161005_002345	Einstellungen{/}
+UI_20161005_002346	{@st59}Schließen{/}
 UI_20161005_002347	{@st66d}You cannot revert this when the skill is applied.{nl}Do you wish to proceed?{/}
 UI_20161005_002348	It is a spell voucher that{nl}quickly defeats monsters in an instanced dungeon.
 UI_20161005_002349	Instanced Clear Voucher
@@ -2353,23 +2353,23 @@ UI_20161005_002353	{@st59b}Blessed Gems Extraction{nl}{@st59s}- Extract a Blesse
 UI_20161005_002354	Mission Failed
 UI_20161005_002355	All players have been incapacitated.
 UI_20161005_002356	Confirm to move out of the tower.
-UI_20161005_002357	{@st43b}{s20}Confirm{/}
-UI_20161005_002358	{@st41}Auto-Attack
+UI_20161005_002357	{@st43b}{s20}Bestaetigen{/}
+UI_20161005_002358	{@st41}Auto-Angriff
 UI_20161005_002359	{s16}{#000000}Friends Online %s/%s{/}
 UI_20161005_002360	{@st43}Go to Friend{/}
 UI_20161005_002361	{@st43}Portal
 UI_20161005_002362	{@st41b}Save Position
-UI_20161005_002363	{@st59}Close{/}
+UI_20161005_002363	{@st59}Schließen{/}
 UI_20161005_002364	{@st66b}Saved Portals: %s/%s{/}
 UI_20161005_002365	{@st43}Craft Spellbook
 UI_20161005_002366	{@st43}Switch Gender Shop{/}
 UI_20161005_002367	{@st66b}Change{/}
-UI_20161005_002368	{@st59}Close{/}
+UI_20161005_002368	{@st59}Schließen{/}
 UI_20161005_002369	{img silver 20 20} Price 
 UI_20161005_002370	{@st41b}Open
 UI_20161005_002371	Vorher{/}
 UI_20161005_002372	Nachher{/}
-UI_20161005_002373	{@st66d}Wechsel das Geschlecht{/}
+UI_20161005_002373	{@st66d}Aendere das Geschlecht{/}
 UI_20161005_002374	Warning{/}
 UI_20161005_002375	Remove all equipped gear before you proceed{nl}The class costume will be changed along with your gender{/}
 UI_20161005_002376	{@st67}All the premium items that were gender specific will no longer be equippable{/}
