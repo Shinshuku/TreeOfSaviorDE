@@ -1869,9 +1869,9 @@ ITEM_20150317_001868	Garlic
 ITEM_20150317_001869	Popolion Meat
 ITEM_20150317_001870	Restores 350~400 SP. A well-known delicacy among food connoisseurs. {nl}Right-click to use.
 ITEM_20150317_001871	Klaipeda Warp Scroll
-ITEM_20150317_001872	Teleports you to Klaipeda. {nl}Right-click to use.
+ITEM_20150317_001872	Teleports you to Klaipeda. {nl}Rechtsklick zum verwenden.
 ITEM_20150317_001873	TP Box
-ITEM_20150317_001874	Contains 1 TP. {nl}Right-click to use.
+ITEM_20150317_001874	Contains 1 TP. {nl}Rechtsklick zum verwenden.
 ITEM_20150317_001875	Cures the [Poison] status ailment.
 ITEM_20150317_001876	Velheider's Food
 ITEM_20150317_001877	Velheider's favorite food. Completely restores your companion's HP and restores their Stamina by 30.
@@ -1880,63 +1880,63 @@ ITEM_20150317_001879	Hoglan's favorite food. Completely restores your companion'
 ITEM_20150317_001880	Arma's Food
 ITEM_20150317_001881	Arma's favorite food. Completely restores your companion's HP and restores their Stamina by 30.
 ITEM_20150317_001882	Basic Warp Scroll
-ITEM_20150317_001883	Lv1 EXP Card
-ITEM_20150317_001884	Adds 30 EXP. {nl}50% chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150317_001885	Lv2 EXP Card
-ITEM_20150317_001886	Adds 120 EXP. {nl}50% chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150317_001887	Lv3 EXP Card
-ITEM_20150317_001888	Adds 500 EXP. {nl}50% chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150317_001889	Lv4 EXP Card
-ITEM_20150317_001890	Adds 2000 EXP. {nl}50% chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150317_001891	Lv5 EXP Card
-ITEM_20150317_001892	Adds 6000 EXP. {nl}50% chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150317_001893	Lv6 EXP Card
-ITEM_20150317_001894	Adds 12000 EXP. {nl}50% chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150317_001895	Lv7 EXP Card
-ITEM_20150317_001896	Adds 24000 EXP. {nl}50% chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150317_001897	HP Increase Potion
-ITEM_20150317_001898	Permanently increases your maximum HP by 30. {nl}Right-click to use.
-ITEM_20150317_001899	SP Increase Potion
-ITEM_20150317_001900	Permanently increases your maximum SP by 20. {nl}Right-click to use.
-ITEM_20150317_001901	Stamina Increase Potion
-ITEM_20150317_001902	Permanently increases your maximum Stamina by 5. {nl}Right-click to use.
-ITEM_20150317_001903	Weight Increase Potion
-ITEM_20150317_001904	Permanently increases your maximum Weight by 100. {nl}Right-click to use.
-ITEM_20150317_001905	Basic Small HP Potion
+ITEM_20150317_001883	Lv1 EXP-Karte
+ITEM_20150317_001884	Erhalte 30 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001885	Lv2 EXP-Karte
+ITEM_20150317_001886	Erhalte 120 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001887	Lv3 EXP-Karte
+ITEM_20150317_001888	Erhalte 500 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001889	Lv4 EXP-Karte
+ITEM_20150317_001890	Erhalte 2000 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001891	Lv5 EXP-Karte
+ITEM_20150317_001892	Erhalte 6000 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001893	Lv6 EXP-Karte
+ITEM_20150317_001894	Erhalte 12000 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001895	Lv7 EXP-Karte
+ITEM_20150317_001896	Erhalte 24000 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001897	HP Staerkungstrank
+ITEM_20150317_001898	Erhoeht deine HP dauerhaft um 30. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001899	SP Staerkungstrank
+ITEM_20150317_001900	Erhoeht deine SP dauerhaft um 20. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001901	Stamina Staerkungstrank
+ITEM_20150317_001902	Erhoeht dein maximales Stamina dauerhaft um 5. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001903	Traglast Staerkungstrank
+ITEM_20150317_001904	Erhoeht deine maximale Traglast dauerhaft um 100. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001905	Kleiner HP Trank
 ITEM_20150317_001906	Basic HP Potion Supply
-ITEM_20150317_001907	Basic Large HP Potion
-ITEM_20150317_001908	Basic Small SP Potion
-ITEM_20150317_001909	Basic SP Potion
-ITEM_20150317_001910	Basic Large SP Potion
+ITEM_20150317_001907	Großer HP Trank
+ITEM_20150317_001908	Kleiner SP Trank
+ITEM_20150317_001909	SP Trank
+ITEM_20150317_001910	Großer SP Trank
 ITEM_20150317_001911	Basic Stamina Pill
-ITEM_20150317_001912	Basic STA Potion (Medium)
-ITEM_20150317_001913	Basic STA Potion (Large)
+ITEM_20150317_001912	Basic STA Potion (Mittel)
+ITEM_20150317_001913	Basic STA Potion (Groß)
 ITEM_20150317_001914	Basic Small Recovery Potion
 ITEM_20150317_001915	Basic Recovery Potion
 ITEM_20150317_001916	Basic Large Recovery Potion
 ITEM_20150317_001917	Basic Movement Speed Potion
-ITEM_20150317_001918	STR Increase Potion
-ITEM_20150317_001919	Permanently increases your STR by 1. {nl}Right-click to use.
-ITEM_20150317_001920	DEX Increase Potion
-ITEM_20150317_001921	Permanently increases your DEX by 1. {nl}Right-click to use.
-ITEM_20150317_001922	CON Increase Potion
-ITEM_20150317_001923	Permanently increases your CON by 1. {nl}Right-click to use.
-ITEM_20150317_001924	INT Increase Potion
-ITEM_20150317_001925	Permanently increases your INT by 1. {nl}Right-click to use.
-ITEM_20150317_001926	SPR Increase Potion
-ITEM_20150317_001927	Permanently increases your SPR by 1. {nl}Right-click to use.
-ITEM_20150317_001928	Status Increase Potion
-ITEM_20150317_001929	Gives 1 Status Point. Right-click to use.
-ITEM_20150317_001930	Permanently increases your maximum carry weight by 50. {nl}Right-click to use.
+ITEM_20150317_001918	STR Erhoeungstrank
+ITEM_20150317_001919	Erhoeht deine STR dauerhaft um 1. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001920	GES Erhoeungstrank
+ITEM_20150317_001921	Erhoeht deine GES dauerhaft um 1. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001922	KON Erhoeungstrank
+ITEM_20150317_001923	Erhoeht deine KON dauerhaft um by 1. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001924	INT Erhoeungstrank
+ITEM_20150317_001925	Erhoeht deine INT dauerhaft um by 1. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001926	SPR Erhoeungstrank
+ITEM_20150317_001927	Erhoeht deine SPR dauerhaft um by 1. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001928	Status Erhoeungstrank
+ITEM_20150317_001929	Erhalte 1 Statuspunkt. Rechtsklick zum verwenden.
+ITEM_20150317_001930	Erhoeht deine maximale Traglast dauerhaft um 50. {nl}Rechtsklick zum verwenden.
 ITEM_20150317_001931	Cooldown Time Potion (CBT Test Purposes)
-ITEM_20150317_001932	Reduce the cooldown duration of all skills by 50% for 10 minutes. {nl}Right-click to use. Cooldown of 10 minutes.
+ITEM_20150317_001932	Reduce the cooldown duration of all skills by 50% for 10 minutes. {nl}Rechtsklick zum verwenden. Cooldown of 10 minutes.
 ITEM_20150317_001933	Status Reset Scroll (CBT Test Purposes)
 ITEM_20150317_001934	Resets all the Status Points of your character.{nl}(CBT Tester only)
-ITEM_20150317_001935	Lv8 EXP Card
-ITEM_20150317_001936	Adds 36000 EXP. {nl}50% chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150317_001937	Lv9 EXP Card
-ITEM_20150317_001938	Adds 60000 EXP. {nl}50% chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150317_001939	Attack Booster +3
+ITEM_20150317_001935	Lv8 EXP-Karte
+ITEM_20150317_001936	Erhalte 36000 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001937	Lv9 EXP-Karte
+ITEM_20150317_001938	Erhalte 60000 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001939	Angriffsbooster +3
 ITEM_20150317_001940	Increases weapon damage by 3. {nl}Can be used after assigning it to a quick slot.
 ITEM_20150317_001941	Attack Booster +5
 ITEM_20150317_001942	Increases weapon damage by 5. {nl}Can be used after assigning it to a quick slot.
@@ -5140,29 +5140,29 @@ ITEM_20150714_005139	Enchanter Costume
 ITEM_20150714_005140	Pickaxe Set
 ITEM_20150714_005141	Card Set
 ITEM_20150714_005142	Kaliss Armband
-ITEM_20150714_005143	Restores HP every 2 seconds. {nl}384 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 30 seconds.
-ITEM_20150714_005144	Restores HP every 2 seconds. {nl}640 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20150714_005145	Restores HP every 2 seconds. {nl}1280 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
+ITEM_20150714_005143	Restores HP every 2 seconds. {nl}384 HP is restored over 15 seconds. {nl}Rechtsklick zum verwenden. Cooldown of 30 seconds.
+ITEM_20150714_005144	Restores HP every 2 seconds. {nl}640 HP is restored over 15 seconds. {nl}Rechtsklick zum verwenden. Cooldown of 45 seconds.
+ITEM_20150714_005145	Restores HP every 2 seconds. {nl}1280 HP is restored over 15 seconds. {nl}Rechtsklick zum verwenden. Cooldown of 45 seconds.
 ITEM_20150714_005146	The fruit has a soft pulp. There are small hairs on the skin.
 ITEM_20150714_005147	The fruit smells nasty. But it tastes like a piece of heaven.
-ITEM_20150714_005148	Restores 80~100 HP. The meat is readily available and safe to eat raw. Right-click to use.
-ITEM_20150714_005149	Adds 166 EXP and 127 Class EXP. {nl}Has a chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150714_005150	Adds 895 EXP and 689 Class EXP. {nl}Has a chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150714_005151	Adds 2375 EXP and 1828 Class EXP. {nl}Has a chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150714_005152	Adds 3155 EXP and 2429 Class EXP. {nl}Has a chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150714_005153	Adds 7620 EXP and 5867 Class EXP. {nl}Has a chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150714_005154	Adds 8190 EXP and 6306 Class EXP. {nl}Has a chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150714_005155	Adds 20104 EXP and 15480 Class EXP. {nl}Has a chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150714_005156	Adds 47383 EXP and 36484 Class EXP. {nl}Has a chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150714_005157	Adds 79314 EXP and 61071 Class EXP. {nl}Has a chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150714_005158	Lv10 EXP Card
-ITEM_20150714_005159	Adds 69778 EXP and 53729 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150714_005160	Lv11 EXP Card
-ITEM_20150714_005161	Adds 180341 EXP & 138862 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150714_005162	Lv12 EXP Card
-ITEM_20150714_005163	Adds 202718 EXP & 156092 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use.
-ITEM_20150714_005164	Lv13 EXP Card
-ITEM_20150714_005165	Adds 448276 EXP & 345172 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use.
+ITEM_20150714_005148	Restores 80~100 HP. The meat is readily available and safe to eat raw. Rechtsklick zum verwenden.
+ITEM_20150714_005149	Erhalte 166 EXP und 127 Klassen-EXP. {nl}Has a chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20150714_005150	Erhalte 895 EXP und 689 Klassen-EXP. {nl}Has a chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20150714_005151	Erhalte 2375 EXP und 1828 Klassen-EXP. {nl}Has a chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20150714_005152	Erhalte 3155 EXP und 2429 Klassen-EXP. {nl}Has a chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20150714_005153	Erhalte 7620 EXP und 5867 Klassen-EXP. {nl}Has a chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20150714_005154	Erhalte 8190 EXP und 6306 Klassen-EXP. {nl}Has a chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20150714_005155	Erhalte 20104 EXP und 15480 Klassen-EXP. {nl}Has a chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20150714_005156	Erhalte 47383 EXP und 36484 Klassen-EXP. {nl}Has a chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20150714_005157	Erhalte 79314 EXP und 61071 Klassen-EXP. {nl}Has a chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20150714_005158	Lv10 EXP-Karte
+ITEM_20150714_005159	Erhalte 69778 EXP und 53729 Klassen-EXP. {nl}Chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20150714_005160	Lv11 EXP-Karte
+ITEM_20150714_005161	Erhalte 180341 EXP & 138862 Klassen-EXP. {nl}Chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20150714_005162	Lv12 EXP-Karte
+ITEM_20150714_005163	Erhalte 202718 EXP & 156092 Klassen-EXP. {nl}Chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20150714_005164	Lv13 EXP-Karte
+ITEM_20150714_005165	Erhalte 448276 EXP & 345172 Klassen-EXP. {nl}Chance of receiving additional EXP. {nl}Rechtsklick zum verwenden.
 ITEM_20150714_005166	Repair Potion
 ITEM_20150714_005167	It helps to restore the equipment durability. {nl}Right-click to use.
 ITEM_20150714_005168	Restores HP every 2 seconds. {nl}1920 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
@@ -8749,18 +8749,18 @@ ITEM_20151224_008748	Handle
 ITEM_20151224_008749	Templar Flag
 ITEM_20151224_008750	Demon's jam which is impossible to not finish eating after tasting it for the first time.
 ITEM_20151224_008751	TP Chest
-ITEM_20151224_008752	Adds 500 Character EXP and 385 Class EXP. {nl}Right-click to use.
-ITEM_20151224_008753	Adds 2686 Character EXP and 2068 Class EXP. {nl}Right-click to use.
-ITEM_20151224_008754	Adds 8442 Character EXP and 6500 Class EXP. {nl}Right-click to use.
-ITEM_20151224_008755	Adds 22860 Character EXP and 17602 Class EXP. {nl}Right-click to use.
-ITEM_20151224_008756	Adds 24571 Character EXP and 18919 Class EXP. {nl}Right-click to use.
-ITEM_20151224_008757	Adds 60312 Character EXP and 46440 Class EXP. {nl}Right-click to use.
-ITEM_20151224_008758	Adds 142150 Character EXP and 109455 Class EXP. {nl}Right-click to use.
-ITEM_20151224_008759	Adds 209334 Character EXP and 161187 Class EXP. {nl}Right-click to use.
-ITEM_20151224_008760	Adds 237943 Character EXP and 183216 Class EXP. {nl}Right-click to use.
-ITEM_20151224_008761	Adds 541023 Character EXP and 416587 Class EXP. {nl}Right-click to use.
-ITEM_20151224_008762	Adds 608155 Character EXP and 468279 Class EXP. {nl}Right-click to use.
-ITEM_20151224_008763	Adds 1344829 Character EXP and 1035518 Class EXP. {nl}Right-click to use.
+ITEM_20151224_008752	Erhalte 500 Charakter-EXP und 385 Klassen-EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008753	Erhalte 2686 Charakter-EXP und 2068 Klassen-EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008754	Erhalte 8442 Charakter-EXP und 6500 Klassen-EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008755	Erhalte 22860 Charakter-EXP und 17602 Klassen-EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008756	Erhalte 24571 Charakter-EXP und 18919 Klassen-EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008757	Erhalte 60312 Charakter-EXP und 46440 Klassen-EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008758	Erhalte 142150 Charakter-EXP und 109455 Klassen-EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008759	Erhalte 209334 Charakter-EXP und 161187 Klassen-EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008760	Erhalte 237943 Charakter-EXP und 183216 Klassen-EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008761	Erhalte 541023 Charakter-EXP und 416587 Klassen-EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008762	Erhalte 608155 Charakter-EXP und 468279 Klassen-EXP. {nl}Rechtsklick zum verwenden.
+ITEM_20151224_008763	Erhalte 1344829 Character EXP and 1035518 Class EXP. {nl}Rechtsklick zum verwenden.
 ITEM_20151224_008764	Lets you build a Guild Tower.{nl}Can only be used in fields.
 ITEM_20151224_008765	Food that a companion enjoys.{nl}Completely restores your companion's HP and restores their Stamina by 60.
 ITEM_20151224_008766	Shield Charger
