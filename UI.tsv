@@ -213,7 +213,7 @@ UI_20150317_000212	{@st59b}Freunde{nl}{@st59s} - Freunde dich mit anderen Spiele
 UI_20150317_000213	{@st41b}Zeige nur Online{/}
 UI_20150317_000214	{@st41b}Liste
 UI_20150317_000215	{@st41b}Manage
-UI_20150317_000216	{@st41b}Sende eine Anfrage
+UI_20150317_000216	{@st41b} Sende eine Anfrage
 UI_20150317_000217	{@st41b}Blockieren
 UI_20150317_000218	{@st59}Suchen{/}
 UI_20150317_000219	{@st44}Gilde{/}
@@ -574,7 +574,7 @@ UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s
 UI_20150317_000575	{@st41} {s20}Price : %s
 UI_20150317_000576	{@st41b}Enhance{/}
 UI_20150317_000577	{@st59}Start Item Enhancement{/}
-UI_20150317_000578	{@st59}Close{/}
+UI_20150317_000578	{@st59}Schließen{/}
 UI_20150317_000579	{@st41b} Would you like to refine the {@sti9}×%s{/} selected items?{/}
 UI_20150317_000580	{@st43}Enhancement
 UI_20150317_000581	{@st44}Enhance Item{/}
@@ -657,20 +657,20 @@ UI_20150317_000657	{@st43}Pose{/}
 UI_20150317_000658	{@st59}Schließen{/}
 UI_20150317_000659	{@st41}Board{/}
 UI_20150317_000660	{@st41}Trade{/}
-UI_20150317_000661	{@st41}Social Functions{/}
+UI_20150317_000661	{@st41}Soziale Aktionen{/}
 UI_20150317_000662	{@st41b}Write{/}
 UI_20150317_000663	{@st41}Register{/}
 UI_20150317_000664	{@st59}Register Post{/}
 UI_20150317_000665	{@st41}Start MyPage{/}
 UI_20150317_000666	{@st59}Publish MyPage{/}
 UI_20150317_000667	{@st59}Register Greetings{/}
-UI_20150317_000668	{@st41b}1. Menu{/}
+UI_20150317_000668	{@st41b}1. Menue{/}
 UI_20150317_000669	{@st41}Visit{/}
 UI_20150317_000670	{@st59}Visit MyPage{/}
 UI_20150317_000671	{@st41}Sell{/}
 UI_20150317_000672	{@st59}Sell Item{/}
 UI_20150317_000673	{@st43}Living{/}
-UI_20150317_000674	{@st59}Close{/}
+UI_20150317_000674	{@st59}Schließen{/}
 UI_20150317_000675	{@st41}View All{/}
 UI_20150317_000676	{@st41}Create Map{/}
 UI_20150317_000677	{@st41}%s/min (%s in hand){/}
@@ -678,7 +678,7 @@ UI_20150317_000678	Keyboard Warrior
 UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Level{/}
 UI_20150317_000680	{@st41_yellow}Employment Time
 UI_20150317_000681	{@st43}Graffiti{/}
-UI_20150317_000682	{@st59}Close{/}
+UI_20150317_000682	{@st59}Schließen{/}
 UI_20150317_000683	{@st41b}Tip : Draw a picture in the frame below{/}
 UI_20150317_000684	{@st41b}Colors{/}
 UI_20150317_000685	{@st41b}Quantity{/}
@@ -777,7 +777,7 @@ UI_20150317_000777	{@st53}- Click on the name to spectate{nl}- Right-click to se
 UI_20150317_000778	Center camera to my character
 UI_20150317_000779	{@st55_a}Congratulations!
 UI_20150317_000780	{@st42}Switch Camera
-UI_20150317_000781	{@st44}Abentruer-Journal{/}
+UI_20150317_000781	{@st44}Abenteurer-Journal{/}
 UI_20150317_000782	{@st59}Change View Settings{/}
 UI_20150317_000783	{@st41}Statistics {/}
 UI_20150317_000784	{@st41}Crafting {/}
@@ -788,7 +788,7 @@ UI_20150317_000788	{@st42}Information{/}
 UI_20150317_000789	{@st42}Details{/}
 UI_20150317_000790	{@st42}Combat{/}
 UI_20150317_000791	{@st42}Acquire{/}
-UI_20150317_000792	{@st59}Close Page{/}
+UI_20150317_000792	{@st59}Seite schließen{/}
 UI_20150317_000793	{@st43}Battlefield
 UI_20150317_000794	{@st59}Close Battlefield.
 UI_20150317_000795	(Bronze 3)
@@ -1312,19 +1312,19 @@ UI_20150323_001312	{@st41}{#ffff00}Lock Target{/}
 UI_20150323_001313	{@st43}Refreshment Table
 UI_20150323_001314	{@st41b}Food type
 UI_20150323_001315	{@st41b}Table
-UI_20150323_001316	{@st59}Close{/}
+UI_20150323_001316	{@st59}Schließen{/}
 UI_20150323_001317	{@st43}Grimoire{/}
-UI_20150323_001318	{@st59}Close{/}
+UI_20150323_001318	{@st59}Schließen{/}
 UI_20150323_001319	My Summon Skill
 UI_20150323_001320	Main Card
 UI_20150323_001321	Secondary Card
 UI_20150323_001322	Stat
 UI_20150323_001323	KON
 UI_20150323_001324	INT
-UI_20150323_001325	DEX
+UI_20150323_001325	GEW
 UI_20150323_001326	CRT
 UI_20150323_001327	{@st43}Set up Shop{/}
-UI_20150323_001328	{@st41b}Settings
+UI_20150323_001328	{@st41b}Einstellungen
 UI_20150323_001329	Unit Price
 UI_20150323_001330	{@st41b}Material List
 UI_20150323_001331	{@st43}Gem Roasting{/}
@@ -1353,8 +1353,8 @@ UI_20150323_001353	{@st43}Buy-in Shop
 UI_20150323_001354	Shop Name
 UI_20150323_001355	{@st41b}Open Shop
 UI_20150323_001356	{@st59}Start Buy-in Shop{/}
-UI_20150323_001357	{@st59}Cancel{/}
-UI_20150323_001358	{@st59}Close{/}
+UI_20150323_001357	{@st59}Abbrechen{/}
+UI_20150323_001358	{@st59}Schließen{/}
 UI_20150323_001359	Request Buy-in
 UI_20150323_001360	{@st59}Close Buy-in Shop
 UI_20150323_001361	{@st59}Buy-in Shop{nl} - Trade your items for silver
@@ -1367,12 +1367,12 @@ UI_20150323_001367	{@st41}Alchemy Result {@stx1}(%s required){/}
 UI_20150323_001368	{@st59}Summon Pet{/}
 UI_20150323_001369	{@st41b}Character Settings{/}
 UI_20150323_001370	{@st59}Grimoire{/}
-UI_20150323_001371	{@st41b}Apply Bloom{/}
-UI_20150323_001372	{@st41b}Apply Vignette{/}
-UI_20150323_001373	{@st41b}Apply FXAA{/}
-UI_20150323_001374	{@st41b}Apply GLOW{/}
-UI_20150323_001375	{@st41b}Apply Depth {/}
-UI_20150323_001376	{@st41b}Apply SoftParticle{/}
+UI_20150323_001371	{@st41b}Aktiviere Bloom{/}
+UI_20150323_001372	{@st41b}Aktiviere Vignette{/}
+UI_20150323_001373	{@st41b}Aktiviere FXAA{/}
+UI_20150323_001374	{@st41b}Aktiviere GLOW{/}
+UI_20150323_001375	{@st41b}Aktiviere Depth {/}
+UI_20150323_001376	{@st41b}Aktiviere SoftParticle{/}
 UI_20150323_001377	{@st43}Personal Storage{/}
 UI_20150323_001378	{@st59}Close Personal Storage{/}
 UI_20150323_001379	{@sti6}Storing and taking items from storage costs %s silver...{/}
@@ -1401,7 +1401,7 @@ UI_20150323_001401	{@st41}Eat
 UI_20150323_001402	{@st41}Craft
 UI_20150323_001403	{@st41}Quantity
 UI_20150323_001404	{@st41}Consumable Material
-UI_20150401_001405	{@st59}Close{/}
+UI_20150401_001405	{@st59}Schließen{/}
 UI_20150401_001406	{@st41}Remove Base Camp
 UI_20150401_001407	{@st43}[Circle %s]{/}
 UI_20150401_001408	{@st43}Skill{/}
@@ -1428,7 +1428,7 @@ UI_20150401_001428	Estimated Balance
 UI_20150401_001429	{@st45tw}Offering Box
 UI_20150401_001430	{@st41}Empty
 UI_20150401_001431	{@st43}Current zone user list{/}
-UI_20150401_001432	{@st59}Close{/}
+UI_20150401_001432	{@st59}Schließen{/}
 UI_20150401_001433	{@st41}Party Description :
 UI_20150401_001434	{s20}Poison Amount {s28}{b}{#ff6600}%s
 UI_20150401_001435	Materials for Poison
@@ -1449,12 +1449,12 @@ UI_20150401_001449	Equipped
 UI_20150401_001450	Description : {#FFFF00}%s{/}
 UI_20150401_001451	Average Level : {#FFFF00}%s{/}
 UI_20150401_001452	Conditions
-UI_20150401_001453	Title: %s
+UI_20150401_001453	Titel: %s
 UI_20150401_001454	Reward: %s
 UI_20150401_001455	{@st42}Amount
 UI_20150406_001456	{@st43}Base Camp
 UI_20150406_001457	{@st42}Construct
-UI_20150406_001458	{@st42}Cancel
+UI_20150406_001458	{@st42}Abbrechen
 UI_20150406_001459	{@stc1}Camp Duration
 UI_20150406_001460	{@st41b}Base Camp
 UI_20150406_001461	{@st41b}Camp Duration
@@ -1466,14 +1466,14 @@ UI_20150406_001466	{@st41}My Summon Skill
 UI_20150406_001467	{@st41}Stat
 UI_20150406_001468	{@st41b}Offering Box Name
 UI_20150406_001469	{@st41b}Offering Box Details
-UI_20150406_001470	{@st59}Close
+UI_20150406_001470	{@st59}Schließen
 UI_20150406_001471	{@st59b}Buy-in Shop{nl}{@st59s} - Trade items for silver
 UI_20150406_001472	{@st41b}Other Player's Requested Item{/}
 UI_20150406_001473	{@st41b}Available Items{/}
 UI_20150406_001474	{@st41b}Total Sales
 UI_20150406_001475	{@st41b}Sell
 UI_20150406_001476	{@st59}Sell your item(s).{/}
-UI_20150406_001477	{@st59}Close{/}
+UI_20150406_001477	{@st59}Schließen{/}
 UI_20150406_001478	{@st41b}%s silver is charged when storing and taking items from storage.{/}
 UI_20150406_001479	{@st41b}Quantity
 UI_20150414_001480	{@st42b}The duration of your camp can be increased.{nl} Cost: %s silver.
@@ -1495,7 +1495,7 @@ UI_20150414_001495	{@st41}Party Description
 UI_20150414_001496	{@st41b}Enter{/}
 UI_20150414_001497	Roasting Level %s
 UI_20150428_001498	{@st43}Buy-in Shop{/}
-UI_20150428_001499	{@st41b}Close
+UI_20150428_001499	{@st41b}Schließen
 UI_20150428_001500	{@st41b}Bug Report
 UI_20150428_001501	{@st59}Notify us about bugs and issues{/}
 UI_20150428_001502	When you report a bug, your gameplay up to that point will be sent to our server.{nl}The replay file will be of much help in resolving the bug. Do you want to send it?
@@ -1568,7 +1568,7 @@ UI_20150714_001568	{@st43}Open %s Shop {/}
 UI_20150714_001569	{@st41b}Roasting{/}
 UI_20150714_001570	{@st66}Select All
 UI_20150714_001571	{@st43}Craft Arrow{/}
-UI_20150714_001572	{@st59}Close{/}
+UI_20150714_001572	{@st59}Schließen{/}
 UI_20150714_001573	{@st66b}Check{/}
 UI_20150714_001574	{@st66b}Leave Helper(Requires %s TP){/}
 UI_20150714_001575	Additional Socket Cost : {#000000}%s{/} {nl}Gem Extraction Cost : {#000000}%s{/}
@@ -1699,16 +1699,16 @@ UI_20150717_001699	{@st42}My Summon Info
 UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}
 UI_20150717_001701	{@st59}Sort your inventory{/}
 UI_20150717_001702	Sort
-UI_20150717_001703	{@st59}Close{/}
-UI_20150717_001704	{@st59}Close{/}
+UI_20150717_001703	{@st59}Schließen{/}
+UI_20150717_001704	{@st59}Schließen{/}
 UI_20150717_001705	Mouse Tutorial
-UI_20150717_001706	{@st59}Close{/}
-UI_20150717_001707	Attack : %s
-UI_20150717_001708	Defense : %s
+UI_20150717_001706	{@st59}Schließen{/}
+UI_20150717_001707	Angriff : %s
+UI_20150717_001708	Verteidigung : %s
 UI_20150717_001709	STR : %s
-UI_20150717_001710	CON : %s
+UI_20150717_001710	KON : %s
 UI_20150717_001711	INT : %s
-UI_20150717_001712	DEX : %s
+UI_20150717_001712	GES : %s
 UI_20150717_001713	SPR : %s
 UI_20150717_001714	{@st42b}Swordsman types can dash by pressing the arrow key twice.{/}
 UI_20150717_001715	{@st42}Party Name & Description{/}
@@ -1720,7 +1720,7 @@ UI_20150717_001720	This can only be used by party leaders.
 UI_20150717_001721	You must use the Party Member Recommendation function.
 UI_20150717_001722	{@st66b}Quest Class Name{/}
 UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter a quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
-UI_20150717_001724	{@st59}Mouse Info{/}
+UI_20150717_001724	{@st59}Maus Info{/}
 UI_20150717_001725	{@st66b}Sort
 UI_20150717_001726	{@st59}Sort items in your storage{/}
 UI_20150717_001727	{@st59}Equip weapons to this slot{nl}Press Alt+Z to swap weapons{/}
@@ -1750,20 +1750,20 @@ UI_20150729_001750	{#000000}{s22}Server Queue
 UI_20150729_001751	{#000000}{s22}The server is currently full. Queueing for entry.
 UI_20150729_001752	{#000000}{s22}Current Position : %s
 UI_20150729_001753	{@st43}Team Battle League
-UI_20150729_001754	{@st59}Close
+UI_20150729_001754	{@st59}Schließen
 UI_20150729_001755	{@st42}Team Battle League Schedule
 UI_20150729_001756	{@st43}Team Battle League Rankings
-UI_20150729_001757	{@st59}Close Team
+UI_20150729_001757	{@st59}Schließen Team
 UI_20150729_001758	Team Name
 UI_20150729_001759	{@st41b}Skill Name
 UI_20150729_001760	{@st59}Accept Party Mission{/}
 UI_20150729_001761	{@st59}Delete this Ticket{/}
 UI_20150729_001762	Score
 UI_20150729_001763	Join Team Battle League
-UI_20150730_001764	{@st56}My Rank
-UI_20150730_001765	{@st56}Kill Rank
-UI_20150730_001766	{@st56}Damage Rank
-UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName chat
+UI_20150730_001764	{@st56}Mein Rang
+UI_20150730_001765	{@st56}Kill Rang
+UI_20150730_001766	{@st56}Damage Rang
+UI_20150803_001767	Allgemein: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Fluesternr: /w TeamName chat
 UI_20150803_001768	{@st66b}Controller Vibration{/}
 UI_20150803_001769	A match has been found. Please wait until you can join the game.
 UI_20150804_001770	{@st43}{s18}Pick the character to receive the item.{/}
@@ -1804,16 +1804,16 @@ UI_20150918_001804	Total Untradable: %s
 UI_20150918_001805	{@st42b}Check Dialog{/}
 UI_20150918_001806	{@st66b}Give food to outside party{/}
 UI_20150918_001807	{@st41b}Change Signboard Title
-UI_20150918_001808	{@sti9}My Rank
-UI_20150918_001809	{@sti9}Kill Rank
-UI_20150918_001810	{@sti9}Damage Rank
+UI_20150918_001808	{@sti9}My Rang
+UI_20150918_001809	{@sti9}Kill Rang
+UI_20150918_001810	{@sti9}Damage Rang
 UI_20151001_001811	{@st43}Key Settings{/}
 UI_20151001_001812	{@st45tw2}Category
 UI_20151001_001813	Action
 UI_20151001_001814	Restore defaults
 UI_20151016_001815	{@st59}The selected item will be locked{/}
 UI_20151016_001816	{@st59}You can change the theme of your lodge and preview it.
-UI_20151016_001817	%s Characters{/}
+UI_20151016_001817	%s Charaktere{/}
 UI_20151016_001818	{@st42b}Preview
 UI_20151016_001819	{@st42b}Return
 UI_20151016_001820	{@st42b}Buy
@@ -1831,10 +1831,10 @@ UI_20151224_001831	{@st41b}Change{s18}(Requires 100 TP){/}
 UI_20151224_001832	Consume Quantity
 UI_20151224_001833	Quantity Available
 UI_20151224_001834	{@st43}Spell Sell Shop{/}
-UI_20151224_001835	{@st59}Close{/}
+UI_20151224_001835	{@st59}Schließen{/}
 UI_20151224_001836	{@st43}Spell Sell Shop
 UI_20151224_001837	Spell Sell Shop
-UI_20151224_001838	{@st59}Close
+UI_20151224_001838	{@st59}Schließen
 UI_20151224_001839	{@st59}Spell Sell Shop{nl} - You can receive a buff skill from the player by paying in silver.
 UI_20151224_001840	{@st41b}Build
 UI_20151224_001841	{@st41b}Materials and Price
@@ -1857,7 +1857,7 @@ UI_20151224_001857	{@st66b}Cooking
 UI_20151224_001858	{@st66b}Food
 UI_20151224_001859	{@st66b}List
 UI_20151224_001860	{@st66b}Manage
-UI_20151224_001861	{@st59}Close{/}
+UI_20151224_001861	{@st59}Schließen{/}
 UI_20151224_001862	{@st43}Guild{/}
 UI_20151224_001863	{@st41b}Basic Information
 UI_20151224_001864	{@st41b}Property
@@ -1870,7 +1870,7 @@ UI_20151224_001870	Summon
 UI_20151224_001871	To Guild Member
 UI_20151224_001872	Go
 UI_20151224_001873	{@st43}History{/}
-UI_20151224_001874	{@st59}Close{/}
+UI_20151224_001874	{@st59}Schließen{/}
 UI_20151224_001875	{@st45tw2}Category{/}
 UI_20151224_001876	{@st45tw2}Variation Value{/}
 UI_20151224_001877	{@st45tw2}Time{/}
@@ -1930,7 +1930,7 @@ UI_20151224_001930	{@st66b}Open
 UI_20151224_001931	{@st66b}Offering Box
 UI_20151224_001932	{@st66b}Members{/}
 UI_20151224_001933	{@st66b}Party Event{/}
-UI_20151224_001934	{@st66b}Settings{/}
+UI_20151224_001934	{@st66b}Einstellungen{/}
 UI_20151224_001935	{@st42b}Save{/}
 UI_20151224_001936	{@st41}Party Name & Description{/}
 UI_20151224_001937	Show Nearby Parties
@@ -2047,11 +2047,11 @@ UI_20151224_002047	Guild Skills & Information
 UI_20151224_002048	{@st42}%s Benefits{/}
 UI_20151224_002049	Benefits
 UI_20160224_002050	Team Storage
-UI_20160224_002051	{@st59}Close{/}
+UI_20160224_002051	{@st59}Schließen{/}
 UI_20160224_002052	You can store tradable items, but at the cost of 1 Potential.{nl}Withdrawing from Team Storage will deduct your remaining{nl}trades by 1 regardless of the number of items you take out.
 UI_20160224_002053	Retrieve Item
-UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Name (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
-UI_20160224_002055	{@59}Close{/}
+UI_20160224_002054	Allgemein : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Flüstern : /w Team Name (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
+UI_20160224_002055	{@59}Schließen{/}
 UI_20160224_002056	Challenge
 UI_20160224_002057	Please choose to proceed
 UI_20160224_002058	{@st63_yellow}Abandoned :{/}
@@ -2079,18 +2079,18 @@ UI_20160224_002079	{@st43}Guild Lv. %s{/}
 UI_20160224_002080	{@st66b}Upgrade & Rank
 UI_20160224_002081	{@st66b}Guild Attributes
 UI_20160224_002082	Guild Storage
-UI_20160224_002083	{@st59}Close{/}
+UI_20160224_002083	{@st59}Schließen{/}
 UI_20160224_002084	* The guild master can send items to guild members.{nl}* Items can be collected through the Message Box.
 UI_20160224_002085	{@st41b}Enchant
 UI_20160224_002086	{@st41b}Enchant Scroll{/}
-UI_20160224_002087	{@st59}Close{/}
+UI_20160224_002087	{@st59}Schließen{/}
 UI_20160224_002088	{@st66b}Consumes 1 Enchant Scroll{/}
 UI_20160224_002089	{@st42b}Current Scrolls  : %s{/}
 UI_20160224_002090	{@st66b}Missions{/}
 UI_20160224_002091	{@st66b}Saalus Convent{/}
 UI_20160224_002092	{@st66b}Earth Tower{/}
 UI_20160224_002093	{@st59b}Instanced Dungeons{nl}{@st59s}Content where your group has to achieve certain objectives in independent instanced zones.{nl}You can either create a party before entering or automatically search for a party to challenge a dungeon.{nl} - Dungeons : Enter by talking to the dungeon entrance NPC in each respective level zone.{nl} - Missions : Enter by talking to the Mercenary Post Receptionists in Fedimian.{nl} - Saalus Convent Mission : Enter by talking to Sister Lhasa at Saalus Convent.{nl}{/}
-UI_20160224_002094	{@st59}Close{/}
+UI_20160224_002094	{@st59}Schließen{/}
 UI_20160224_002095	{@st59}Show/Do not show{/}
 UI_20160224_002096	{@st45tw2}Queuing Time{/}
 UI_20160224_002097	Bid
@@ -2126,7 +2126,7 @@ UI_20160224_002126	Daily Points
 UI_20160224_002127	Purchased Points
 UI_20160224_002128	Records
 UI_20160224_002129	Storage
-UI_20160224_002130	Rank %s
+UI_20160224_002130	Rang %s
 UI_20160224_002131	Defeats : %s
 UI_20160224_002132	Damage : %s
 UI_20160224_002133	Increased maximum buff count
@@ -2194,7 +2194,7 @@ UI_20160520_002194	{@st42}Guild War
 UI_20160520_002195	Declare Neutral
 UI_20160603_002196	{@st66b}Skill Control Speed (%s){/}
 UI_20160613_002197	{@st42}If both parties are using Tokens,{nl}tradable equipment items will not become untradable.{nl}{#FFFF00}Consumables and material items will become{nl}untradable regardless of Token use.{/}
-UI_20160617_002198	{@st59}Close{/}
+UI_20160617_002198	{@st59}Schließen{/}
 UI_20160617_002199	{@st43}{s22}Team Level %s{/}
 UI_20160622_002200	{@st41}Report{/}
 UI_20160622_002201	Report an item suspected of being used in a problematic trade.
@@ -2210,12 +2210,12 @@ UI_20160711_002210	Receiving information.
 UI_20160718_002211	Minimize Chat
 UI_20160718_002212	Chat Force Downscroll
 UI_20160718_002213	{@st43}Event Shop{/}
-UI_20160718_002214	{@st59}Close{/}
+UI_20160718_002214	{@st59}Schließen{/}
 UI_20160718_002215	{@st41}Stat
 UI_20160718_002216	{@st59}Regional GvG
 UI_20160718_002217	{@st43}Regional GvG Rankings
 UI_20160718_002218	Regional GvG Rankings
-UI_20160718_002219	{@st59}Close
+UI_20160718_002219	{@st59}Schließen
 UI_20160718_002220	{@st59b}Regional GvG{nl}{@st59s} - Rewards are given on a weekly basis and the rankings will reset.{nl}- Refer to the Rewards List for more details.{nl}{/}
 UI_20160718_002221	{@st66b}Rank %s{/}
 UI_20160718_002222	{@sti8}{s18}{ds}Participants (%s){/}
@@ -2374,7 +2374,7 @@ UI_20161005_002374	Warning{/}
 UI_20161005_002375	Remove all equipped gear before you proceed{nl}The class costume will be changed along with your gender{/}
 UI_20161005_002376	{@st67}All the premium items that were gender specific will no longer be equippable{/}
 UI_20161005_002377	Stat
-UI_20161005_002378	{@st66d}{s30}The webpage reached its end. {nl} Please, press Close.{/}
+UI_20161005_002378	{@st66d}{s30}The webpage reached its end. {nl} Klick auf Schließen.{/}
 UI_20161005_002379	View from the Player's POV
 UI_20161005_002380	All Characters
 UI_20161005_002381	{@st66e}%s{nl}Change from %s to {@st66d_y}%s{/}
@@ -2444,7 +2444,7 @@ UI_20161108_002444	{@st43}%s obtained!{/}
 UI_20161108_002445	{@st42b}Open Goddess' Blessed Cube X %s
 UI_20161108_002446	{@st42b}Open Leticia's Secret Cube X %s
 UI_20161108_002447	{@st41}Open Compensation Cube
-UI_20161108_002448	{@st59}Close{/}
+UI_20161108_002448	{@st59}Schließen{/}
 UI_20161108_002449	{@st66b}Might obtain something mysterious{nl}when opened.{/}
 UI_20161121_002450	{@st41}Entry Count Reset : 06:00 AM Every Day{/}
 UI_20161121_002451	Name/Location
@@ -2467,7 +2467,7 @@ UI_20161121_002467	{@st66b}Cancel Queue
 UI_20161121_002468	Entering now...
 UI_20161121_002469	{@st59}Close the Message.{/}
 UI_20161214_002470	{@st43}Identify{/}
-UI_20161214_002471	{@st59}Close{/}
+UI_20161214_002471	{@st59}Schließen{/}
 UI_20161214_002472	{@st66}List of Identifiable Items
 UI_20161214_002473	{@st41b}Identification Cost{/}
 UI_20161214_002474	{@st41b}Identify{/}
