@@ -1572,14 +1572,14 @@ UI_20150714_001572	{@st59}Close{/}
 UI_20150714_001573	{@st66b}Check{/}
 UI_20150714_001574	{@st66b}Leave Helper(Requires %s TP){/}
 UI_20150714_001575	Additional Socket Cost : {#000000}%s{/} {nl}Gem Extraction Cost : {#000000}%s{/}
-UI_20150714_001576	{ds}Recommended Level : %s
-UI_20150714_001577	Explored : 50.0%
-UI_20150714_001578	{@st45tw}[%s% explored]{/}
-UI_20150714_001579	>>Show More Info...
+UI_20150714_001576	{ds}Empfohlenes Level : %s
+UI_20150714_001577	Erkundet : 50.0%
+UI_20150714_001578	{@st45tw}[%s% erkundet]{/}
+UI_20150714_001579	>>Zeige mehr Infos...
 UI_20150714_001580	%s (Rank %s)
 UI_20150714_001581	Job Name
-UI_20150714_001582	{@st41b}Invite
-UI_20150714_001583	{@st41}You can change to keyboard, controller, or mouse controls in the system menu.{nl}
+UI_20150714_001582	{@st41b}Einladen
+UI_20150714_001583	{@st41}Du kannst die Controller-, Tastatur- und Mauseinstellungen in den Einstellungen anpassen.{nl}
 UI_20150714_001584	When you meet a character matching your party conditions, {nl}[Party match found!] notice will be shown.{nl}You will also be recommended to other parties.
 UI_20150714_001585	{@st42}Play Style{/}
 UI_20150714_001586	{@st42}Lv. Difference{/}
@@ -1612,15 +1612,15 @@ UI_20150714_001612	Party Members : %s/5
 UI_20150714_001613	Join
 UI_20150714_001614	{@st59}Search by party name or description{/}
 UI_20150714_001615	Simple Help Details
-UI_20150714_001616	{@st43}Message Box
-UI_20150714_001617	{@st41b}All
-UI_20150714_001618	{@st41b}Unread Messages
+UI_20150714_001616	{@st43}Nachrichten-Box
+UI_20150714_001617	{@st41b}Alle
+UI_20150714_001618	{@st41b}Ungelesene Nachrichten
 UI_20150714_001619	{@st43}{s22}Choose a character to receive the items.{/}
 UI_20150714_001620	{@st41b}Enhance
 UI_20150714_001621	{@st66}Items requiring a repair
 UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Increase skills{/}
-UI_20150714_001624	{@st59}Close{/}
+UI_20150714_001624	{@st59}Schließen{/}
 UI_20150714_001625	{@st43}Skills & Attribute{/}
 UI_20150714_001626	Uebrige Statuspunkte {nl}{@st46}%s
 UI_20150714_001627	Likes erhalten : %s
