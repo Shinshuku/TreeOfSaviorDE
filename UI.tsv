@@ -472,8 +472,8 @@ UI_20150317_000472	{Gr gradation1}Registration{/}
 UI_20150317_000473	Register Rules
 UI_20150317_000474	{Gr gradation1}Cancel{/}
 UI_20150317_000475	Cancel Action
-UI_20150317_000476	{@st43}Gefaehrten Info
-UI_20150317_000477	{@st59b}Gefaehrten Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized. {/}
+UI_20150317_000476	{@st43}Begleiter Info
+UI_20150317_000477	{@st59b}Begleiter Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized. {/}
 UI_20150317_000478	{@st59}Schließen{/}
 UI_20150317_000479	{@st41b}Name : {@sti9}%s{/}
 UI_20150317_000480	{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}
@@ -481,8 +481,8 @@ UI_20150317_000481	{@st41b}EXP{/}
 UI_20150317_000482	{@st41b}Stamina{/}
 UI_20150317_000483	{@st41b}Affinitaet{/}
 UI_20150317_000484	{@st41b}Attribute und Informationen
-UI_20150317_000485	{@st43}Gefaehrte{/}
-UI_20150317_000486	{@st59b}Gefaehrte{nl}{@st59s} - Click on an item in the list to view more information. {/}
+UI_20150317_000485	{@st43}Begleiter{/}
+UI_20150317_000486	{@st59b}Begleiter{nl}{@st59s} - Click on an item in the list to view more information. {/}
 UI_20150317_000487	{@st59}Schließen{/}
 UI_20150317_000488	{@st59}Schließen{/}
 UI_20150317_000489	{@st59}Hilfe{nl} - View detailed information and tips. {nl} - View other topics from the Help List{/}
@@ -536,7 +536,7 @@ UI_20150317_000536	Which quest would you like to go back to?
 UI_20150317_000537	{@st41b}Quest class name{/}
 UI_20150317_000538	{@st59}Expand Slots{/}
 UI_20150317_000539	{@st59}Reduce Slots{/}
-UI_20150317_000540	{@st59}Beschwoere deinen treuen Gefaehrten.{/}
+UI_20150317_000540	{@st59}Beschwoere deinen treuen Begleiter.{/}
 UI_20150317_000541	{@st44}Menue{/}
 UI_20150317_000542	{@st60}Charakterauswahl{/}
 UI_20150317_000543	{@st60}Ausloggen{/}
@@ -730,7 +730,7 @@ UI_20150317_000730	{@st59}Quests (F5){/}
 UI_20150317_000731	{@st59}Party (F6){/}
 UI_20150317_000732	{@st59}Freunde (F7){/}
 UI_20150317_000733	{@st59}Macro (F8) {/}
-UI_20150317_000734	{@st59}Gefaehrten (F9) {/}
+UI_20150317_000734	{@st59}Begleiter (F9) {/}
 UI_20150317_000735	{@st59}Tipps (F10) {/}
 UI_20150317_000736	{@st59}Menue (Esc){/}
 UI_20150317_000737	{@st59}Necronomicon{/}
@@ -1000,7 +1000,7 @@ UI_20150317_001000	{@St43}{s26}Team Name{/}
 UI_20150317_001001	{@st59}Team Name{/}
 UI_20150317_001002	{@st41b}Change Team Name{/}
 UI_20150317_001003	{@st59}Change Team Name{/}
-UI_20150317_001004	{@St41}Gefaehrte{/}
+UI_20150317_001004	{@St41}Begleiter{/}
 UI_20150317_001005	Chat Drag
 UI_20150317_001006	{@St44}New Dialog Name{/}
 UI_20150317_001007	{@St42}Aendern{/}
