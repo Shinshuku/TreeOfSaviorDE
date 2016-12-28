@@ -1,4 +1,4 @@
-UI_20150317_000001	{@st41b}Lerne ein Attribut{nl}von deinem jeweiligen Klassenmeister.{/}
+nunUI_20150317_000001	{@st41b}Lerne ein Attribut{nl}von deinem jeweiligen Klassenmeister.{/}
 UI_20150317_000002	{@st43}Liste der Attribute {/}
 UI_20150317_000003	{@st59}Schließen{/}
 UI_20150317_000004	{@st43}Lerne ein Attribut{/}
@@ -1441,16 +1441,16 @@ UI_20150401_001441	Hairstyle Color
 UI_20150401_001442	Available Titles
 UI_20150401_001443	{@st41b}Controller UI mode{/}
 UI_20150401_001444	{@st41}{#ffffcc}Name
-UI_20150401_001445	{@st41}{#ffffcc}Price
+UI_20150401_001445	{@st41}{#ffffcc}Preis
 UI_20150401_001446	{@st41}{#ffffcc}Status
 UI_20150401_001447	{@st41b}Cancel Preview
-UI_20150401_001448	{@st41}{#ffff00}My TPs : %s{/}
+UI_20150401_001448	{@st41}{#ffff00}Meine TPs : %s{/}
 UI_20150401_001449	Equipped
 UI_20150401_001450	Description : {#FFFF00}%s{/}
 UI_20150401_001451	Average Level : {#FFFF00}%s{/}
-UI_20150401_001452	Conditions
+UI_20150401_001452	Bedingungen
 UI_20150401_001453	Titel: %s
-UI_20150401_001454	Reward: %s
+UI_20150401_001454	Belohnung: %s
 UI_20150401_001455	{@st42}Amount
 UI_20150406_001456	{@st43}Base Camp
 UI_20150406_001457	{@st42}Construct
@@ -1499,14 +1499,14 @@ UI_20150428_001499	{@st41b}Schließen
 UI_20150428_001500	{@st41b}Bug Report
 UI_20150428_001501	{@st59}Notify us about bugs and issues{/}
 UI_20150428_001502	When you report a bug, your gameplay up to that point will be sent to our server.{nl}The replay file will be of much help in resolving the bug. Do you want to send it?
-UI_20150428_001503	{@st41b}Bug description :{/}
+UI_20150428_001503	{@st41b}Bug-Beschreibung :{/}
 UI_20150428_001504	{@st41b}Entering a description is not mandatory, but it will help us a lot in analyzing the bug.
-UI_20150428_001505	{@st41b}Send
+UI_20150428_001505	{@st41b}Senden
 UI_20150428_001506	{@st42}{s14}{#ffff00}Target Lock{/}
 UI_20150428_001507	{@st59}Lock your target regardless of distance or direction
 UI_20150428_001508	Party gefunden!
 UI_20150428_001509	Controller Rest Quickslot
-UI_20150428_001510	{@st41b}Rest Mode
+UI_20150428_001510	{@st41b}Ausruhen
 UI_20150428_001511	Controller Tutorial
 UI_20150428_001512	{@st59}Schließe Controller Tutorial(M){/}
 UI_20150428_001513	Tatastur Tutorial
