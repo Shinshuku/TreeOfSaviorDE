@@ -1508,10 +1508,10 @@ UI_20150428_001508	Party gefunden!
 UI_20150428_001509	Controller Rest Quickslot
 UI_20150428_001510	{@st41b}Rest Mode
 UI_20150428_001511	Controller Tutorial
-UI_20150428_001512	{@st59}Close Controller Tutorial(M){/}
-UI_20150428_001513	Keyboard Tutorial
-UI_20150428_001514	{@st44}Logout{/}
-UI_20150428_001515	{@st41b}Leave Helper(Requires %s TP){/}
+UI_20150428_001512	{@st59}Schließe Controller Tutorial(M){/}
+UI_20150428_001513	Tatastur Tutorial
+UI_20150428_001514	{@st44}Ausloggen{/}
+UI_20150428_001515	{@st41b}Verlasse Helper(Requires %s TP){/}
 UI_20150428_001516	Socket Addition Cost : {#ff9933}%s{/}{nl}Gem Removal Cost : {#ff9933}%s{/}
 UI_20150428_001517	{@st41b}Remove Gem
 UI_20150428_001518	{@st42}{s14}{#ffff00}UI Mode{/}
@@ -1529,24 +1529,24 @@ UI_20150428_001529	{@st41b}Leave Party
 UI_20150428_001530	{@st59}Search by party description{/}
 UI_20150428_001531	{s18}{ol}{gr gradation1}Helper Rules{/}
 UI_20150428_001532	{@st59}Craft{/}
-UI_20150428_001533	{@st45ty}Hairstyle Color
-UI_20150428_001534	{@st45ty}Available Title
+UI_20150428_001533	{@st45ty}Haarfarbe
+UI_20150428_001534	{@st45ty}Verfuegbare Titel
 UI_20150428_001535	{@st41_yellow}Helper Skill
-UI_20150428_001536	{@st41b}Show Other Character Names{/}
+UI_20150428_001536	{@st41b}Zeige andere Charakternamen{/}
 UI_20150428_001537	{@st43}UI Mode{/}
 UI_20150428_001538	{@st41b}Auto{/}
 UI_20150428_001539	{@st41b}Controller{/}
-UI_20150428_001540	{@st41b}Keyboard{/}
+UI_20150428_001540	{@st41b}Tastatur{/}
 UI_20150428_001541	Controller
 UI_20150428_001542	{@st59}Controller Info{/}
-UI_20150428_001543	Keyboard
-UI_20150428_001544	{@st59}Keyboard Info{/}
-UI_20150428_001545	{@st43}Graphic Settings{/}
-UI_20150428_001546	{@st43}Performance{/}
+UI_20150428_001543	Tastatur
+UI_20150428_001544	{@st59}Tastatur Info{/}
+UI_20150428_001545	{@st43}Graphikeinstellungen{/}
+UI_20150428_001546	{@st43}Performance/}
 UI_20150428_001547	{@st41b}Low-spec Mode{/}
 UI_20150428_001548	{@st41b}Auto Adjustment{/}
-UI_20150428_001549	{@st41b}Don't use{/}
-UI_20150428_001550	Game FAQ
+UI_20150428_001549	{@st41b}Nichts{/}
+UI_20150428_001550	Spiel FAQ
 UI_20150428_001551	Players : (%s/%s)
 UI_20150428_001552	At least Lv. 100 : (%s/%s)
 UI_20150511_001553	{@st41}Link Party Invite
@@ -1558,12 +1558,12 @@ UI_20150714_001558	{@st64}%s Win(s) {/}
 UI_20150714_001559	Select Card
 UI_20150714_001560	Adventure Index:{#ffff00} %s{/} ({#ffff00}Rank: %s{/})
 UI_20150714_001561	{@st66b}Like!
-UI_20150714_001562	I like this character {#ffff00}%s{/}
+UI_20150714_001562	Mir gefaellt dieser Charakter! {#ffff00}%s{/}
 UI_20150714_001563	{@st41b}Remove Refreshment Table
 UI_20150714_001564	{@st42}My Summon Skill
 UI_20150714_001565	{@st42}Stat
-UI_20150714_001566	{@st42}Current Location : %s{/}
-UI_20150714_001567	{@st59b}Equipment {nl}{@st59s} - Hair/Costume: Equipment to change a characters appearance. {nl} - Weapon: One-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: 1 Necklace and 2 Bracelets. {nl} {/}
+UI_20150714_001566	{@st42}Aktuelle Position : %s{/}
+UI_20150714_001567	{@st59b}Ausruestung {nl}{@st59s} - Frisur/Kostuem: Aendere das Aussehen deines Charakters. {nl} - Waffe: Einhand oder Zweihand {nl} (Nebenhand/Schild kann nur mit einer Einhandwaffe getragen werden) {nl} - Ruestung: Oberteil, Hose, Handschuhe, Schuhe. {nl} - Accessoires: Kann eine Halskette und zwei Armreif tragen. {nl} {/}
 UI_20150714_001568	{@st43}Open %s Shop {/}
 UI_20150714_001569	{@st41b}Roasting{/}
 UI_20150714_001570	{@st66}Select All
@@ -1621,34 +1621,34 @@ UI_20150714_001621	{@st66}Items requiring a repair
 UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Increase skills{/}
 UI_20150714_001624	{@st59}Close{/}
-UI_20150714_001625	{@st43}Skills & Attributes{/}
-UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
-UI_20150714_001627	Likes received : %s
+UI_20150714_001625	{@st43}Skills & Attribute{/}
+UI_20150714_001626	Uebrige Statuspunkte {nl}{@st46}%s
+UI_20150714_001627	Likes erhalten : %s
 UI_20150714_001628	{@st66b}Show Gained EXP{/}
-UI_20150714_001629	{@st66b}Show Character Name{/}
-UI_20150714_001630	{@st66b}Show Only Team Name{/}
-UI_20150714_001631	{@st66b}Show Other Players' Names{/}
+UI_20150714_001629	{@st66b}Zeige nur Charaktername{/}
+UI_20150714_001630	{@st66b}Zeige nur Teamname{/}
+UI_20150714_001631	{@st66b}Zeige andere Charakternamen{/}
 UI_20150714_001632	{@st66b}Auto{/}
 UI_20150714_001633	{@st66b}Controller{/}
-UI_20150714_001634	{@st66b}Keyboard{/}
-UI_20150714_001635	{@st66b}Mouse
-UI_20150714_001636	{@st66b}Full Screen{/}
-UI_20150714_001637	{@st66b}Windowed Mode{/}
-UI_20150714_001638	{@st66b}Sound Effects Volume (%s){/}
+UI_20150714_001634	{@st66b}Tastatur{/}
+UI_20150714_001635	{@st66b}Maus
+UI_20150714_001636	{@st66b}Vollbild{/}
+UI_20150714_001637	{@st66b}Fenstermodus{/}
+UI_20150714_001638	{@st66b}Sound Effekte Volume (%s){/}
 UI_20150714_001639	{@st66b}BGM Volume (%s){/}
 UI_20150714_001640	{@st66b}Volume (%s){/}
 UI_20150714_001641	{@st66b}Low Mode{/}
 UI_20150714_001642	{@st66b}Auto Setup{/}
-UI_20150714_001643	{@st66b}Disable{/}
-UI_20150714_001644	{@st66b}Apply Bloom{/}
-UI_20150714_001645	{@st66b}Apply Vignette{/}
-UI_20150714_001646	{@st66b}Apply FXAA{/}
-UI_20150714_001647	{@st66b}Apply Glow{/}
-UI_20150714_001648	{@st66b}Apply Depth{/}
-UI_20150714_001649	{@st66b}Apply Soft Particle{/}
-UI_20150714_001650	{@st66b}Apply High Texture {/}
-UI_20150714_001651	{@st66b}Vertical Sync On{/}
-UI_20150714_001652	{@st66b}Vertical Sync Off{/}
+UI_20150714_001643	{@st66b}Deaktiviert{/}
+UI_20150714_001644	{@st66b}Aktiviere Bloom{/}
+UI_20150714_001645	{@st66b}Aktiviere Vignette{/}
+UI_20150714_001646	{@st66b}Aktiviere FXAA{/}
+UI_20150714_001647	{@st66b}Aktiviere Glow{/}
+UI_20150714_001648	{@st66b}Aktiviere Depth{/}
+UI_20150714_001649	{@st66b}Aktiviere Soft Particle{/}
+UI_20150714_001650	{@st66b}Aktiviere High Texture {/}
+UI_20150714_001651	{@st66b}Vertical Sync An{/}
+UI_20150714_001652	{@st66b}Vertical Sync Aus{/}
 UI_20150714_001653	{@st66b} %s silver is charged when storing and taking items from storage.{/}
 UI_20150714_001654	%s like me
 UI_20150714_001655	{@st41}Spectate
@@ -1737,7 +1737,7 @@ UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
 UI_20150729_001739	{@st59}Close Arrow Crafting{/}
 UI_20150729_001740	Fragments needed : Mutant %s / Beast %s / Plant %s
-UI_20150729_001741	{@st42b}         Swordsman classes can sprint by                     double-tapping a directional key{/}
+UI_20150729_001741	{@st42b}         Schwertkaempfer koennen sprinten                     wenn sie eine Bewegungstaste zweimal druecken{/}
 UI_20150729_001742	{@st41}Party Settings
 UI_20150729_001743	{@st41}Party Recruit Settings
 UI_20150729_001744	{@st42}Search for Party Members{/}
