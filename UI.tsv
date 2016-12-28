@@ -28,9 +28,9 @@ UI_20150317_000027	{@st41b}Gebotener Preis
 UI_20150317_000028	{@st41b}Mindestgebot von {@st57}%s{@st41b}Silber{/}
 UI_20150317_000029	{@st41b}Bieten{/}
 UI_20150317_000030	{@st43b}Sofort kaufen!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_000031	{@st44}Permission Settings{/}
+UI_20150317_000031	{@st44}Einstellungen (Genehmigung){/}
 UI_20150317_000032	{@st45}Name: %s{/}
-UI_20150317_000033	{@st45}Party Storage{/}
+UI_20150317_000033	{@st45}Party Lager{/}
 UI_20150317_000034	{@st49}Nichts
 UI_20150317_000035	{@st49}Laden
 UI_20150317_000036	{@st49}Abfragen
@@ -42,50 +42,50 @@ UI_20150317_000041	{@st44}Abbrechen{/}
 UI_20150317_000042	{@st43}{s22}Friseur{/}
 UI_20150317_000043	{@st59}vorherige Frisur{/}
 UI_20150317_000044	{@st59}Naechste Frisur{/}
-UI_20150317_000045	{@st41b}Aendern{s18} (100 TPs erforderlich) {/}
-UI_20150317_000046	{@st59}Change to selected hairstyle.{/}
+UI_20150317_000045	{@st41b}Aendern{s18} (100 TP erforderlich) {/}
+UI_20150317_000046	{@st59}Neue Frisur uebernehmen.{/}
 UI_20150317_000047	{@st41}Abbrechen
 UI_20150317_000048	{@st43}Schwarzmarkt{/}
 UI_20150317_000049	Buchname
 UI_20150317_000050	{@St59}Aufhoeren zu lesen{/}
 UI_20150317_000051	{@st59}Vorherige Seite{/}
 UI_20150317_000052	{@st59}Naechste Seite{/}
-UI_20150317_000053	{@st47}%s appeared!
-UI_20150317_000054	{@st43}Score{/}
+UI_20150317_000053	{@st47}%s erschienen!
+UI_20150317_000054	{@st43}Punktestand{/}
 UI_20150317_000055	Schaden erhalten
 UI_20150317_000056	Technik Bonus
 UI_20150317_000057	Ausweichen Bonus
 UI_20150317_000058	Clear Time
-UI_20150317_000059	Total Score
-UI_20150317_000060	{@st42}Elapsed Time
+UI_20150317_000059	Endergebnis
+UI_20150317_000060	{@st42}verstrichene Zeit
 UI_20150317_000061	10 Minuten
 UI_20150317_000062	10 Sekunden
-UI_20150317_000063	{@st44}Complete
+UI_20150317_000063	{@st44}vollständig
 UI_20150317_000064	{@st59}Schließen{/}
-UI_20150317_000065	{@st43}Buff Vending Machine
-UI_20150317_000066	Vending Machine Name
+UI_20150317_000065	{@st43}Buff-Automat
+UI_20150317_000066	Automatenname
 UI_20150317_000067	{@st43}Registieren
 UI_20150317_000068	{@st43}Abbrechen
-UI_20150317_000069	Buff Vending Machine
+UI_20150317_000069	Buff-Automat
 UI_20150317_000070	{@st59}Schließen
-UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.
-UI_20150317_000072	Carriage Menu
-UI_20150317_000073	{ol}{s22}Disembark{/}
-UI_20150317_000074	Casting
+UI_20150317_000071	{@st59}Buff-Automat{nl} - Du kannst Silber bezahlen, um Buffs von einem anderen Spieler zu erhalten.
+UI_20150317_000072	Fracht Menue
+UI_20150317_000073	{ol}{s22}Aussteigen{/}
+UI_20150317_000074	Zaubern
 UI_20150317_000075	{@st43}Einstellungen{/}
-UI_20150317_000076	{@st64}Use the arrow keys to select a cell!
-UI_20150317_000077	{@st43}Advancement Information {/}
+UI_20150317_000076	{@st64}Verwende die Pfeiltasten, um eine Zelle auszuwählen!
+UI_20150317_000077	{@st43}Fortschritt {/}
 UI_20150317_000078	{@st43}Waehle eine Klasse
 UI_20150317_000079	Psychokinesist
 UI_20150317_000080	{@st42}%s Circle {/}
 UI_20150317_000081	How many circles
-UI_20150317_000082	Displays a brief description of the class.
+UI_20150317_000082	Zeigt eine kurze Beschreibung der Klasse an.
 UI_20150317_000083	{@st41b}Schaden {@sti7}%s{/}
 UI_20150317_000084	{@st41b}Unterstuetzung {@sti7}%s{/}
 UI_20150317_000085	{@st41b}Schwierigkeit{@sti7}%s{/}
 UI_20150317_000086	{@st59}Schließen{/}
 UI_20150317_000087	Advancement Alarm
-UI_20150317_000088	{@st43} Advancement
+UI_20150317_000088	{@st43} Fortschritt
 UI_20150317_000089	{@sti7}{s14} Charakter {/}
 UI_20150317_000090	{@sti8}{s14} Klasse {/}
 UI_20150317_000091	{@st44}Chat{/}
@@ -102,7 +102,7 @@ UI_20150317_000101	{@st59}Fluestern (/w team name chat){/}
 UI_20150317_000102	{@st59}Chatfenster anpassen{/}
 UI_20150317_000103	{@st43}{s22}Chat Macro{/}
 UI_20150317_000104	{@st43}Macro{/}
-UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - Anleitung: {nl} 1. Drag a gesture icon to any gesture slots at the bottom. {nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to simultaneously use the phrase and make the gesture. {/}
+UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - Anleitung: {nl} 1. Ziehe eine Geste zu einem beliebigen Gesten-Slots an der Unterseite. {nl} 2. Schreib eine Phrase und speicher sie. {nl} 3. Verwende die Tastenkombination zur gleichzeitigen Verwendung der Phrase und der Geste. {/}
 UI_20150317_000106	{@st59}Schließen{/}
 UI_20150317_000107	{@st41b}Speichern{/}
 UI_20150317_000108	{@st59}Speichern{/}
@@ -111,53 +111,53 @@ UI_20150317_000110	{@st59}Abbrechen{/}
 UI_20150317_000111	{@st42}Chateinstellungen
 UI_20150317_000112	{@st42}Transparenz
 UI_20150317_000113	Zeige Sprechblasen
-UI_20150317_000114	Show Shouts on Top
+UI_20150317_000114	Zeige Shouts
 UI_20150317_000115	{@st43}Cheat Liste{/}
 UI_20150317_000116	{@st42b}Item{/}
 UI_20150317_000117	{@st42b}Monster{/}
-UI_20150317_000118	{@st42b}Move map{/}
-UI_20150317_000119	{@st42b}Combat Order{/}
+UI_20150317_000118	{@st42b}Karte verschieben{/}
+UI_20150317_000119	{@st42b}Kampfbefehle{/}
 UI_20150317_000120	{@st41b}Schließen{/}
-UI_20150317_000121	{s16}{b}Create items by clicking on the Create button or double-click.
+UI_20150317_000121	{s16}{b}Erstelle Items indem du auf die Schaltflaeche "Erstellen" klickst oder ueber Doppelklick.
 UI_20150317_000122	{s16}{b}ea
 UI_20150317_000123	{s16}{b}Lv.
 UI_20150317_000124	{@st41b}Suche{/}
-UI_20150317_000125	{s16}{b}Summon monsters by clicking on the Create button or double-click.
+UI_20150317_000125	{s16}{b}Beschwoere Monster indem du auf die Schaltflaeche "Erstellen" klickst oder ueber Doppelklick.
 UI_20150317_000126	{s16}{b}ea
-UI_20150317_000127	{s16}{b}Select a desired area.
+UI_20150317_000127	{s16}{b}Waehle den gewuenschten Bereich aus.
 UI_20150317_000128	{s18}{b}Zeige Minimap{/}
 UI_20150317_000129	{@st41b}Tool Liste{/}
-UI_20150317_000130	{@st59b}Sammlung {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
+UI_20150317_000130	{@st59b}Sammlung {nl}{@st59s}- Kaufe das Sammelalbum, um Sammlerstuecke zu deiner Sammlung hinzuzufuegen. {nl} - Der Sammlungs-Hotkey wird aktiviert, wenn du das Sammelalbum verwenden. {nl} {/}
 UI_20150317_000131	{@st59}Schließen{/}
 UI_20150317_000132	{@st43}Sammlung{/}
-UI_20150317_000133	{@st43}Color Spray{/}
-UI_20150317_000134	{@st49}Color Spray{/}
+UI_20150317_000133	{@st43}Farbspray{/}
+UI_20150317_000134	{@st49}Farbspray{/}
 UI_20150317_000135	{@st49}Farbe{/}
 UI_20150317_000136	{@st49}Uebrig{/}
-UI_20150317_000137	{@st49}Brush{/}
-UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Draw{/}{/}
-UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}
-UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}
+UI_20150317_000137	{@st49}Buerste{/}
+UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Zeichnen{/}{/}
+UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Speichern{/}{/}
+UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Importieren{/}{/}
 UI_20150317_000141	{@st49}Schließen{/}
-UI_20150317_000142	{@st43}Companion Adoption
-UI_20150317_000143	{@st59}Enter the name of your newly adopted companion {/}
+UI_20150317_000142	{@st43}Begleiter adoptieren
+UI_20150317_000143	{@st59}Gib den Namen deines neuen Begleiters ein {/}
 UI_20150317_000144	{@st41b}Name{/}
 UI_20150317_000145	{@st41b}Preis %s{/}
 UI_20150317_000146	{@st59}Schließen{/}
 UI_20150317_000147	{@st41b}Adoptieren
 UI_20150317_000148	{@st59}Bestaetigen{/}
-UI_20150317_000149	{@st43}Gefaehrten-Laden
+UI_20150317_000149	{@st43}Begleiter-Laden
 UI_20150317_000150	{@st59}Schließen{/}
 UI_20150317_000151	{@st43}Weitere Charakter Info{/}{@st42}
 UI_20150317_000152	{@st59}Schließen{/}
 UI_20150317_000153	{@st41b}Informationen
 UI_20150317_000154	{@st41b}Record
-UI_20150317_000155	Team Name
+UI_20150317_000155	Teamname
 UI_20150317_000156	Charaktername
 UI_20150317_000157	Circle {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}
 UI_20150317_000158	Krieger
-UI_20150317_000159	Abenteuer Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
-UI_20150317_000160	Abenteuer Index {#ffff00}%s{/} ({#ffff00}Unranked{/})
+UI_20150317_000159	Abenteuer Index {#ffff00}%s{/} (Rang{#ffff00}%s{/}/%s)
+UI_20150317_000160	Abenteuer Index {#ffff00}%s{/} ({#ffff00}Kein Rang{/})
 UI_20150317_000161	Erfolge gesamt : {#ffff00}%s{/}
 UI_20150317_000162	Einstellungen
 UI_20150317_000163	Clear the tab title to delete the tab.
@@ -167,38 +167,38 @@ UI_20150317_000166	{@st49}Reden{/}
 UI_20150317_000167	{@st49}Kampf{/}
 UI_20150317_000168	{@st49}Item{/}
 UI_20150317_000169	{@st43}Credits{/}
-UI_20150317_000170	{@st43}Lock Target settings {/}
+UI_20150317_000170	{@st43}Einstellungen sperren {/}
 UI_20150317_000171	NPC Name
-UI_20150317_000172	Compare
+UI_20150317_000172	Vergleiche
 UI_20150317_000173	Illustration
-UI_20150317_000174	Select a conversation
+UI_20150317_000174	Waehle ein Gespraech
 UI_20150317_000175	Text Help
-UI_20150317_000176	{@st41}Item Crafting{/}
-UI_20150317_000177	{@st45tw2}Crafting the item...
-UI_20150317_000178	%r seconds
+UI_20150317_000176	{@st41}Item-Herstellung{/}
+UI_20150317_000177	{@st45tw2}Stelle das Item her...
+UI_20150317_000178	%r Sekunden
 UI_20150317_000179	{@st41}Abbrechen{/}
-UI_20150317_000180	{@st45tw2}Quantity{/}
+UI_20150317_000180	{@st45tw2}Menge{/}
 UI_20150317_000181	{@st45tw2}Willst du diesen Gegenstand herstellen?
 UI_20150317_000182	{@st41}Bestaetigen{/}
 UI_20150317_000183	Quest Informationen
 UI_20150317_000184	{@st59}Handel abbrechen{/}
-UI_20150317_000185	{@st43}Personal Trade{/}
-UI_20150317_000186	My Trading List
+UI_20150317_000185	{@st43}Persoenlicher Handel{/}
+UI_20150317_000186	Meine Handelsliste
 UI_20150317_000187	Silber : %s
 UI_20150317_000188	Enter
 UI_20150317_000189	{@st41}Annehmen
 UI_20150317_000190	{@st41}Bestaetigen
 UI_20150317_000191	Other Player's (%s) Trading List
-UI_20150317_000192	Other Player's Name
+UI_20150317_000192	Spielername
 UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}
-UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?
-UI_20150317_000195	{s20}{ol}%s Would you like to join?
+UI_20150317_000194	{s20}{ol}Besiege den Vubbe-Stamm! Moechtest du beitreten?
+UI_20150317_000195	{s20}{ol}%s Moechtest du beitreten?
 UI_20150317_000196	{s20}{ol}Teilnehmer : (1/5)
 UI_20150317_000197	{s20}{ol}Teilnehmer : (%s/%s)
-UI_20150317_000198	{s20}{ol}The game will begin after 1 second.
-UI_20150317_000199	{s20}{ol}The game will begin after %s seconds.
-UI_20150317_000200	Do not show this anymore for today.
-UI_20150317_000201	Do not show Field Events.
+UI_20150317_000198	{s20}{ol}Das Spiel wird 1 Sekunde beginnen.
+UI_20150317_000199	{s20}{ol}Das Spiel wird %s Sekunden beginnen.
+UI_20150317_000200	Heute nicht mehr zeigen.
+UI_20150317_000201	Keine Field Events zeigen.
 UI_20150317_000202	Spiel beitreten
 UI_20150317_000203	Starte ein Spiel mit anderen Spielern.
 UI_20150317_000204	Spieleinladung ablehnen.
@@ -206,14 +206,14 @@ UI_20150317_000205	Spray Presets
 UI_20150317_000206	{@st49}Auswaehlen{/}
 UI_20150317_000207	{@st49}Abbrechen{/}
 UI_20150317_000208	{@st49}Loeschen{/}
-UI_20150317_000209	Enter a file name to save.
+UI_20150317_000209	Gib einen Namen zum speichern ein.
 UI_20150317_000210	{@st43}Freunde
 UI_20150317_000211	{@st59}Schließen{/}
 UI_20150317_000212	{@st59b}Freunde{nl}{@st59s} - Freunde dich mit anderen Spielern an. {nl} - Den Online-Status deiner Freunde siehst du in der Freundesliste. {nl} - Dort kannst du Freunde einladen, blockieren oder entfernen. {/}
 UI_20150317_000213	{@st41b}Zeige nur Online{/}
 UI_20150317_000214	{@st41b}Liste
-UI_20150317_000215	{@st41b}Manage
-UI_20150317_000216	{@st41b} Sende eine Anfrage
+UI_20150317_000215	{@st41b}Verwalten
+UI_20150317_000216	{@st41b}  Sende eine Anfrage
 UI_20150317_000217	{@st41b}Blockieren
 UI_20150317_000218	{@st59}Suchen{/}
 UI_20150317_000219	{@st44}Gilde{/}
@@ -235,18 +235,18 @@ UI_20150317_000234	{@st56}Name {/}
 UI_20150317_000235	Vorherige Seite
 UI_20150317_000236	Nächste Seite
 UI_20150317_000237	{@st42}Suche ID{/}
-UI_20150317_000238	Enter the ID to search
-UI_20150317_000239	Close the Hall of Fame
-UI_20150317_000240	Enter the ID to search
+UI_20150317_000238	Gib die zu suchende ID ein
+UI_20150317_000239	Schließe die Hall of Fame
+UI_20150317_000240	Gib die zu suchende ID ein
 UI_20150317_000241	{@st59}Stamina{/}
 UI_20150317_000242	{@st43}Tipps{/}
 UI_20150317_000243	{@st59}Schließen{/}
-UI_20150317_000244	{@st59b}Tipps{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}
+UI_20150317_000244	{@st59b}Tipps{nl}{@st59s} - Wenn du Hilfe brauchst, kannst du jederzeit die Hilfethemen lesen. {nl} - Waehle ein Thema aus, um mehr Informationen darüber zu erhalten. {/}
 UI_20150317_000245	{@st43}{s22}Tipp{/}
 UI_20150317_000246	{@st47_b}{b}Tipps{/}
 UI_20150317_000247	{@st42b}Simple Help Contents{/}
-UI_20150317_000248	{@st59}View details{/}
-UI_20150317_000249	Please enter a quantity
+UI_20150317_000248	{@st59}Zeige Details{/}
+UI_20150317_000249	Gib eine Anzahl ein
 UI_20150317_000250	{@st59}Enter the contents{/}
 UI_20150317_000251	{@st41b}Bestaetigen
 UI_20150317_000252	{@st59}Bestaetigen{/}
@@ -258,7 +258,7 @@ UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Erlaubt es dir schnell an Orte zu 
 UI_20150317_000259	{@st43}{s22}Warp{/}
 UI_20150317_000260	{@st41b}Moechtest du dieses Gebiet betreten?{/}
 UI_20150317_000261	Was ist mit Siauliai
-UI_20150317_000262	Coin Consumed : 0
+UI_20150317_000262	Muenzen verbraucht : 0
 UI_20150317_000263	Intro
 UI_20150317_000264	{@st43}Inventar{/}
 UI_20150317_000265	{@st59}Schließen{/}
@@ -281,15 +281,15 @@ UI_20150317_000281	Traglast
 UI_20150317_000282	{@st43}Equipment Buff{/}
 UI_20150317_000283	{@st59}Schließen{/}
 UI_20150317_000284	{@st42}Available for Buff
-UI_20150317_000285	{@st42}Consume{/}
+UI_20150317_000285	{@st42}Verbrauchen{/}
 UI_20150317_000286	{@st42}Rennen
 UI_20150317_000287	{@st42}Target Item{/}
 UI_20150317_000288	{@st59}Ring 1{/}
-UI_20150317_000289	{@st43}Item Crafting{/}
-UI_20150317_000290	{@st42b}Show Craftable Items{/}
+UI_20150317_000289	{@st43}ItemHerstellung{/}
+UI_20150317_000290	{@st42b}Zeige herstellbare Items{/}
 UI_20150317_000291	{@st59}Schließen{/}
 UI_20150317_000292	{@st43}{s22}Split Item
-UI_20150317_000293	{@st59}Enter a quantity{/}
+UI_20150317_000293	{@st59}Anzahl eingeben{/}
 UI_20150317_000294	Monster HP Bar
 UI_20150317_000295	{@st44}Item Set acquired{/}
 UI_20150317_000296	Keyboard Warrior
@@ -298,10 +298,10 @@ UI_20150317_000298	99 Minuten 99 Sekunden
 UI_20150317_000299	38000 Punkte
 UI_20150317_000300	Enhanced Speed Potion
 UI_20150317_000301	{@st41}Bestaetigen{/}
-UI_20150317_000302	{@st59b} Abenteurer-Jorunal {nl}{@st59s}- Dein Spielfortschritt wird im Abenteurer-Journal festgehalten. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
+UI_20150317_000302	{@st59b} Abenteurer-Jorunal {nl}{@st59s}- Dein Spielfortschritt wird im Abenteurer-Journal festgehalten. {nl} - Du kannst deinen Abenteuer-Index durch Fortschritte, Erwerb von Gegenstaenden, Monster jagen, Handwerk und Kartenerforschung verbessern.{nl}    Adventure Index : The total of all your indexes. {nl}    Wachstum: 5 Punkte pro Charakterlevel und Klassenstufe {nl}    Item: Ausruestung: Stufe X 10 Punkte, Buecher: 10 Punkte, Sonstiges: 1 Punkt {nl}    Monster: 10 Punkte pro Monster (50 Punkte fuer Boss Monster) {nl}    Karten: 1 Punkt pro 10% erforscht {nl}    Quests: 1 Punkt pro Quest {nl}    Erfolge: Abhaengig vom Erfolge {nl}    Herstellung : 10 Punkte {nl}    Sammlung : 5 Punkte für ein Deck und 45 Punkte, wenn es abgeschlossen ist {nl} - Du kannst spezielle Belohnungen von einem NPC in der Stadt erhalten, abhaengig von deinem Abenteuer Index. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Errungenschaften{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Punkte{/}
-UI_20150317_000305	{@st42b} Durchschnittliche / %s Punkte {/}
+UI_20150317_000305	{@st42b} Durchschnittlich / %s Punkte {/}
 UI_20150317_000306	1st / %s Punkte
 UI_20150317_000307	Rang %s
 UI_20150317_000308	%s Punkte
@@ -311,12 +311,12 @@ UI_20150317_000311	{@st59}Schließen{/}
 UI_20150317_000312	{@st43}Abenteurer-Journal Ranking{/}
 UI_20150317_000313	{@st43}{s22}Rang   
 UI_20150317_000314	{@st43}{s22}Name
-UI_20150317_000315	{@st43}{s22}Score
+UI_20150317_000315	{@st43}{s22}Ergebnis
 UI_20150317_000316	{@st41}Details{/}
-UI_20150317_000317	{@st43}Starte Crafting{/}
-UI_20150317_000318	{@st59}Starte item crafting.{/}
+UI_20150317_000317	{@st43}Starte Herstellung{/}
+UI_20150317_000318	{@st59}Starte Itemherstellung.{/}
 UI_20150317_000319	{@st44}Keypad{/}
-UI_20150317_000320	{@st42}Time limit
+UI_20150317_000320	{@st42}Zeitlimit
 UI_20150317_000321	{@st56}Kill{/}
 UI_20150317_000322	{@st56}Overkill{/}
 UI_20150317_000323	{@st56}Shot{/}
@@ -325,13 +325,13 @@ UI_20150317_000325	Zauberkraft
 UI_20150317_000326	Verteidigung
 UI_20150317_000327	Magieverteidigung
 UI_20150317_000328	Kritische Trefferrate
-UI_20150317_000329	{@st43}Socket{/}
+UI_20150317_000329	{@st43}Sockel{/}
 UI_20150317_000330	{@st59}Schließen{/}
-UI_20150317_000331	Please insert your items
+UI_20150317_000331	Fueg deine Items ein
 UI_20150317_000332	Potential
-UI_20150317_000333	Additional Socket Cost : {#ff9933}%s{/}{nl}Gem Extraction Cost : {#ff9933}%s{/}
-UI_20150317_000334	{@st41b}Add Socket
-UI_20150317_000335	{@st41b}Extract Gem
+UI_20150317_000333	Zusätzliche Sockelkosten : {#ff9933}%s{/}{nl}Gem Extraktionskosten : {#ff9933}%s{/}
+UI_20150317_000334	{@st41b}Sockel hinzufuegen
+UI_20150317_000335	{@st41b}Gem extrahieren
 UI_20150317_000336	{@st41}Craft{/}
 UI_20150317_000337	{@st41}%s %s ea
 UI_20150317_000338	Karte
@@ -346,7 +346,7 @@ UI_20150317_000346	{@st41}Loeschen{/}
 UI_20150317_000347	{@st41}Speichern{/}
 UI_20150317_000348	{@st41}Auto{/}
 UI_20150317_000349	{@st41}Reset{/}
-UI_20150317_000350	{@st59}Set quantity.{/}
+UI_20150317_000350	{@st59}Menge einstellen.{/}
 UI_20150317_000351	{ol}Gruppe
 UI_20150317_000352	{ol}Nachricht
 UI_20150317_000353	{ol}Sound
@@ -357,24 +357,24 @@ UI_20150317_000357	{@st43}{s24}Markt{/}
 UI_20150317_000358	{@st42b}Filter{/}
 UI_20150317_000359	{@st42b}Typ{/}
 UI_20150317_000360	{@st42b}Req. Lv{/}
-UI_20150317_000361	{@st42b}Enhance Lv{/}
+UI_20150317_000361	{@st42b}Verbesserungslv.{/}
 UI_20150317_000362	{@st42b}Name
-UI_20150317_000363	{@st41b}Retrieve %s
-UI_20150317_000364	{@st41b}Sell
-UI_20150317_000365	{@st41b}Search
+UI_20150317_000363	{@st41b}Abrufen %s
+UI_20150317_000364	{@st41b}Verkaufen
+UI_20150317_000365	{@st41b}Suchen
 UI_20150317_000366	{@st59}Schließen{/}
 UI_20150317_000367	{@st42b}Sort
-UI_20150317_000368	{@st41b}Purchase
-UI_20150317_000369	{@st43}{s22}Retrieve
-UI_20150317_000370	{@st41b}Retrieve All
-UI_20150317_000371	{@st41b}Retrieve
+UI_20150317_000368	{@st41b}Kaufen
+UI_20150317_000369	{@st43}{s22}Abrufen
+UI_20150317_000370	{@st41b}Alle abrufen
+UI_20150317_000371	{@st41b}abrufen
 UI_20150317_000372	{@st43}{s22}Verkaufen
-UI_20150317_000373	{@st42b}Quantity
+UI_20150317_000373	{@st42b}Menge
 UI_20150317_000374	{@st42b}Preis
-UI_20150317_000375	{@st42b}Hide Seller's Name{/}
-UI_20150317_000376	{@st41b}Register
+UI_20150317_000375	{@st42b}Verkaeufernamen verbergen{/}
+UI_20150317_000376	{@st41b}Registrieren
 UI_20150317_000377	Siege Coin
-UI_20150317_000378	Someone was killed by someone
+UI_20150317_000378	Jemand wurde von jemandem getoetet
 UI_20150317_000379	{@st43}Minigames{/}
 UI_20150317_000380	{@st49}Fire Catapult{/}
 UI_20150317_000381	{@st44}Control directions{/}
