@@ -537,17 +537,17 @@ UI_20150317_000537	{@st41b}Quest class name{/}
 UI_20150317_000538	{@st59}Expand Slots{/}
 UI_20150317_000539	{@st59}Reduce Slots{/}
 UI_20150317_000540	{@st59}Beschwoere deinen treuen Begleiter.{/}
-UI_20150317_000541	{@st44}Menue{/}
+UI_20150317_000541	{@st44}Menü{/}
 UI_20150317_000542	{@st60}Charakterauswahl{/}
 UI_20150317_000543	{@st60}Ausloggen{/}
 UI_20150317_000544	{@st60}Spiel verlassen{/}
 UI_20150317_000545	{@st60}Einstellungen{/}
 UI_20150317_000546	{@st60}Go Back{/}
-UI_20150317_000547	{@st41}Tutorial ueberspringen{/}
+UI_20150317_000547	{@st41}Tutorial überspringen{/}
 UI_20150317_000548	{@st41}Characterauswahl{/}
 UI_20150317_000549	{@st41}Ausloggen{/}
 UI_20150317_000550	{@st41}Spiel schließen{/}
-UI_20150317_000551	{@st41}Geh zurueck{/}
+UI_20150317_000551	{@st41}Geh zurück{/}
 UI_20150317_000552	{@st43}{s22}Gather for the raid!
 UI_20150317_000553	{@st41b}Monster naehern sich der Stadt! Nur du kannst sie aufhalten.
 UI_20150317_000554	{@st43}{s22}Einstellungen{/}
@@ -566,9 +566,9 @@ UI_20150317_000566	{@st41}Monster Kill Top 100{/}
 UI_20150317_000567	{@st41}Damage Top 100{/}
 UI_20150317_000568	{@st41}Money Money Top 100{/}
 UI_20150317_000569	{@st41}Level Up Top 100{/}
-UI_20150317_000570	{@st41b}Menue{/}
+UI_20150317_000570	{@st41b}Menü{/}
 UI_20150317_000571	{@st43}{s22}Enhance Item{/}
-UI_20150317_000572	{@st41b}Ausgewaehltes Item
+UI_20150317_000572	{@st41b}Ausgewähltes Item
 UI_20150317_000573	{@st41b}Anvil
 UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s
 UI_20150317_000575	{@st41} {s20}Preis : %s
@@ -664,7 +664,7 @@ UI_20150317_000664	{@st59}Register Post{/}
 UI_20150317_000665	{@st41}Start MyPage{/}
 UI_20150317_000666	{@st59}Publish MyPage{/}
 UI_20150317_000667	{@st59}Register Greetings{/}
-UI_20150317_000668	{@st41b}1. Menue{/}
+UI_20150317_000668	{@st41b}1. Menü{/}
 UI_20150317_000669	{@st41}Visit{/}
 UI_20150317_000670	{@st59}Visit MyPage{/}
 UI_20150317_000671	{@st41}Sell{/}
@@ -732,18 +732,18 @@ UI_20150317_000732	{@st59}Freunde (F7){/}
 UI_20150317_000733	{@st59}Macro (F8) {/}
 UI_20150317_000734	{@st59}Begleiter (F9) {/}
 UI_20150317_000735	{@st59}Tipps (F10) {/}
-UI_20150317_000736	{@st59}Menue (Esc){/}
+UI_20150317_000736	{@st59}Menü (Esc){/}
 UI_20150317_000737	{@st59}Necronomicon{/}
-UI_20150317_000738	Help (F1)
+UI_20150317_000738	Hilfe (F1)
 UI_20150317_000739	Contents
 UI_20150317_000740	View Details
 UI_20150317_000741	{@st43}Einstellungen{/}
 UI_20150317_000742	{@st43}Spiel{/}
 UI_20150317_000743	{@st41b}Zeige erhaltene EXP{/}
-UI_20150317_000744	{@st41b}Zeige Chrakternamen{/}
+UI_20150317_000744	{@st41b}Zeige Charakternamen{/}
 UI_20150317_000745	{@st41b}Zeige nur den Teamnamen{/}
 UI_20150317_000746	{@st41b}Zeige Quests{/}
-UI_20150317_000747	{@st43}Aufloesung{/}
+UI_20150317_000747	{@st43}Auflösung{/}
 UI_20150317_000748	{@st43}Grafik{/}
 UI_20150317_000749	{@st41b}Vollbild{/}
 UI_20150317_000750	{@st41b}Fenstermodus{/}
@@ -943,7 +943,7 @@ UI_20150317_000943	{@st44}Edit UI properties{/}
 UI_20150317_000944	{@St59}Charakterauswahl{/}
 UI_20150317_000945	{@St59}Ausloggen{/}
 UI_20150317_000946	{@St59}Einstellungen{/}
-UI_20150317_000947	{@St59}Schließen{/}
+UI_20150317_000947	{@St59}Spiel beenden{/}
 UI_20150317_000948	{@st43}Lodge Settings{/}
 UI_20150317_000949	{@st59}Schließen{/}
 UI_20150317_000950	{@St42_b}{s18}{#f5c384}Teamname{/}
