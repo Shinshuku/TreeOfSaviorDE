@@ -17,8 +17,8 @@ QUEST_20150317_000016	Vor 600 Jahren, als ich diese Offenbarung schuf, sah ich v
 QUEST_20150317_000017	Die Dämonen haben die erste der Katastrophen begonnen, und die Göttinnen sind verschwunden. {nl}Ich wusste, dass all dies passieren wuerde und tat alles, um dieses Schicksal zu verhindern, aber meine Kraft reichte nicht aus.
 QUEST_20150317_000018	Stattdessen wanderte ich durch lange Träume, auf der Suche nach einer Antwort. {nl}Du warst am Ende von ihnen ... ein Savior.
 QUEST_20150317_000019	Leider konnten die Dämonen nicht still bleiben, wissend, dass ich Hellseherin bin. {nl}Ich war gezwungen, mich bis zum Zeitpunkt deines Erscheinens zu verstecken.
-QUEST_20150317_000020	Ich beschloss, mein Wesen zu teilen und in vielen Offenbarungen zu bleiben. {nl} Enthuellungen, die ich weiterhin über ein Jahrtausend heimlich erschaffen habe.
-QUEST_20150317_000021	Savior, wenn du mir helfen kannst, meine Form wiederzuerlangen, koennen wir die unheimlichen Pläne der Dämonen durchkreuzen.{nl}Du musst die Offenbarungen wiederbeleben, die ich in jeder Zeitachse verborgen habe.
+QUEST_20150317_000020	Ich beschloss, mein Wesen zu teilen und in vielen Offenbarungen zu bleiben. {nl} Enthüllungen, die ich weiterhin über ein Jahrtausend heimlich erschaffen habe.
+QUEST_20150317_000021	Savior, wenn du mir helfen kannst, meine Form wiederzuerlangen, können wir die unheimlichen Pläne der Dämonen durchkreuzen.{nl}Du musst die Offenbarungen wiederbeleben, die ich in jeder Zeitachse verborgen habe.
 QUEST_20150317_000022	Diese göttliche Aufgabe wird eine schwere Last sein, aber es ist etwas, das du tuen musst. {nl}Perhaps in the muddy midst of your trials and tribulations, something may come about.
 QUEST_20150317_000023	Dennoch können nur wir diese Welt retten.
 QUEST_20150317_000024	Ich habe die nächste Offenbarung an den obersten Paladin weitergegeben. {nl}Er wird dich am höchsten Blumengarten erwarten.
@@ -49,7 +49,7 @@ QUEST_20150317_000048	Wenn ja, gehe zum Kommandanten Uska in Klaipeda. {nl}Aber 
 QUEST_20150317_000049	It would be nice if I could find a moment to relax...
 QUEST_20150317_000050	Sparnas... {nl}is not someone to take lightly...
 QUEST_20150317_000051	Soldat Moody
-QUEST_20150317_000052	Lass uns um diese Monster kuemmern, bevor wir reden.
+QUEST_20150317_000052	Lass uns um diese Monster kümmern, bevor wir reden.
 QUEST_20150317_000053	Scott's Untersuchungsteam beigetreten
 QUEST_20150317_000054	I long for a time when our team is no longer needed... {nl}What a peaceful age that would be...
 QUEST_20150317_000055	I don't know where to start. {nl}Have you heard anything?
@@ -58,7 +58,7 @@ QUEST_20150317_000057	In the past, pilgrims traveled through this forest. {nl}Bu
 QUEST_20150317_000058	Up until four years ago, the goddesses often blessed us with signs of their presence. {nl}But now, even our combined prayers don't bring so much as a tremor. {nl}Have they truly abandoned us?
 QUEST_20150317_000059	Vacenin personally goes to each region to deal with things. {nl}He gets uncomfortable when he stays in the city.
 QUEST_20150317_000060	Do you plan on staying or enlisting? {nl}If you're interested, I'll gladly recommend you to the head commanders.
-QUEST_20150317_000061	Sei immer auf der Hut. {nl}Monster koennen jederzeit und ueberall auftauchen.
+QUEST_20150317_000061	Sei immer auf der Hut. {nl}Monster können jederzeit und überall auftauchen.
 QUEST_20150317_000062	Where in the world did Goddess Zemyna go...
 QUEST_20150317_000063	What in the world do you call this?
 QUEST_20150317_000064	I think Zemyna, the goddess of the earth would grieve more than anyone else.
@@ -86,7 +86,7 @@ QUEST_20150317_000085	The first to disappear was the Goddess Gabija. {nl}I heard
 QUEST_20150317_000086	Goddess Vakarine left us shortly before Medzio Diena. {nl}Both Zemyna and Ausrine disappeared soon after. {nl}It's already been four years since.
 QUEST_20150317_000087	That's right. The strangest one of all was the Goddess Laima. {nl}No one's really sure when she disappeared.
 QUEST_20150317_000088	Besides, isn't Laima the goddess of fate and foresight? {nl}She probably knew all about it.
-QUEST_20150317_000089	Resting Soldier
+QUEST_20150317_000089	Ruhender Soldat
 QUEST_20150317_000090	I used to be an adventurer like you. Then I took an arrow in the knee...
 QUEST_20150317_000091	It doesn't matter. Come and face me, you monsters!
 QUEST_20150317_000092	A goddess appeared in my dream just now... {nl}She was so enchanting...
@@ -98,7 +98,7 @@ QUEST_20150317_000097	Me? I find it funny, so I just leave him alone.
 QUEST_20150317_000098	Uh, wait. I take back what I said about not believing everything he says.
 QUEST_20150317_000099	Everything that flies out of his mouth is a lie. Don't trust him.
 QUEST_20150317_000100	Siauliai Wache
-QUEST_20150317_000101	Ab hier wird es gefaehrlich. Sei vorsichtig!
+QUEST_20150317_000101	Ab hier wird es gefährlich. Sei vorsichtig!
 QUEST_20150317_000102	These woods aren't exactly peaceful, but it's better than other places. {nl}There are forests that have nothing but souls roaming about.
 QUEST_20150317_000103	This is what people who have seen a goddess in their dreams are being called.
 QUEST_20150317_000104	I thought the Revelators' visions were madness at first. {nl}After all, the goddesses have been gone for a long time.
@@ -113,7 +113,7 @@ QUEST_20150317_000112	Damn, those stubborn things chased us this far!
 QUEST_20150317_000113	Those screams... We're under attack!
 QUEST_20150317_000114	Sicherheitsbestimmungen
 QUEST_20150317_000115	1. Nur autorisiertes Personal darf eintreten. {nl}2. Folgen Sie immer den Anweisungen des Minenaufsehers.
-QUEST_20150317_000116	3. Abgeschlossene Bereiche nicht betreten. {nl}4. Verdaechtige Personen sollten den Rittern von Klaipeda gemeldet werden.
+QUEST_20150317_000116	3. Abgeschlossene Bereiche nicht betreten. {nl}4. Verdächtige Personen sollten den Rittern von Klaipeda gemeldet werden.
 QUEST_20150317_000116 5. Nichts anfassen!
 QUEST_20150317_000117	Supply Base Soldier
 QUEST_20150317_000118	I've never been in a real fight before so I'm a bit nervous.
