@@ -297,7 +297,7 @@ UI_20150317_000297	Kills
 UI_20150317_000298	99 Minuten 99 Sekunden
 UI_20150317_000299	38000 Punkte
 UI_20150317_000300	Enhanced Speed Potion
-UI_20150317_000301	{@st41}Bestaetigen{/}
+UI_20150317_000301	{@st41}Bestätigen{/}
 UI_20150317_000302	{@st59b} Abenteurer-Jorunal {nl}{@st59s}- Dein Spielfortschritt wird im Abenteurer-Journal festgehalten. {nl} - Du kannst deinen Abenteuer-Index durch Fortschritte, Erwerb von Gegenständen, Monster jagen, Handwerk und Kartenerforschung verbessern.{nl}    Adventure Index : The total of all your indexes. {nl}    Wachstum: 5 Punkte pro Charakterlevel und Klassenstufe {nl}    Item: Ausrüstung: Stufe X 10 Punkte, Bücher: 10 Punkte, Sonstiges: 1 Punkt {nl}    Monster: 10 Punkte pro Monster (50 Punkte für Boss Monster) {nl}    Karten: 1 Punkt pro 10% erforscht {nl}    Quests: 1 Punkt pro Quest {nl}    Erfolge: Abhängig vom Erfolge {nl}    Herstellung : 10 Punkte {nl}    Sammlung : 5 Punkte für ein Deck und 45 Punkte, wenn es abgeschlossen ist {nl} - Du kannst spezielle Belohnungen von einem NPC in der Stadt erhalten, abhängig von deinem Abenteuer Index. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Errungenschaften{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Punkte{/}
@@ -710,7 +710,7 @@ UI_20150317_000710	{@st41b}Info{/}
 UI_20150317_000711	{@st41b}Titel{/}
 UI_20150317_000712	Zeige Klasse
 UI_20150317_000713	Zeige Charakternamen
-UI_20150317_000714	{@st59}Aendere Charakternamen{/}
+UI_20150317_000714	{@st59}Ändere Charakternamen{/}
 UI_20150317_000715	{@st41b}Apply
 UI_20150317_000716	{@st59}Apply{/}
 UI_20150317_000717	{@st41b}Abbrechen
@@ -1785,7 +1785,7 @@ UI_20150918_001785	{#000000}Entry Level{/}
 UI_20150918_001786	{#000000}Entry Count{/}
 UI_20150918_001787	{#000000}The number of entries will reset at %s.{/}
 UI_20150918_001788	{img silver 20 20} Price
-UI_20150918_001789	Parties in der Naehe
+UI_20150918_001789	Partys in der Nähe
 UI_20150918_001790	Required Fragments : %s 
 UI_20150918_001791	{@st66b}Leer
 UI_20150918_001792	{@st42}Zeige Partys in der Nähe{/}
@@ -2106,7 +2106,7 @@ UI_20160224_002106	{@st41b}Quit Spectating
 UI_20160224_002107	Blue Team
 UI_20160224_002108	Red Team
 UI_20160224_002109	{@59}Show in a new window{/}
-UI_20160224_002110	Aebenteurer-Journal aktualisiert
+UI_20160224_002110	Abenteurer-Journal aktualisiert
 UI_20160224_002111	{@st41}Exchange
 UI_20160224_002112	Come to the merry kingdom
 UI_20160224_002113	Team Battle League Schedule
@@ -2353,7 +2353,7 @@ UI_20161005_002353	{@st59b}Blessed Gems Extraction{nl}{@st59s}- Extract a Blesse
 UI_20161005_002354	Mission Failed
 UI_20161005_002355	All players have been incapacitated.
 UI_20161005_002356	Confirm to move out of the tower.
-UI_20161005_002357	{@st43b}{s20}Bestaetigen{/}
+UI_20161005_002357	{@st43b}{s20}Bestätigen{/}
 UI_20161005_002358	{@st41}Auto-Angriff
 UI_20161005_002359	{s16}{#000000}Friends Online %s/%s{/}
 UI_20161005_002360	{@st43}Go to Friend{/}
@@ -2363,7 +2363,7 @@ UI_20161005_002363	{@st59}Schließen{/}
 UI_20161005_002364	{@st66b}Saved Portals: %s/%s{/}
 UI_20161005_002365	{@st43}Craft Spellbook
 UI_20161005_002366	{@st43}Switch Gender Shop{/}
-UI_20161005_002367	{@st66b}Aendern{/}
+UI_20161005_002367	{@st66b}Ändern{/}
 UI_20161005_002368	{@st59}Schließen{/}
 UI_20161005_002369	{img silver 20 20} Price 
 UI_20161005_002370	{@st41b}Open
@@ -2488,20 +2488,20 @@ UI_20161214_002488	{@st41b}Activate Multiply Mode
 UI_20161214_002489	{@st41b}Cancel Multiply Mode
 UI_20161214_002490	Multiply Mode Number
 UI_20161214_002491	Please, wait.
-UI_20161214_002492	{@st66b}Ausruestung{/}
+UI_20161214_002492	{@st66b}Ausrüstung{/}
 UI_20161214_002493	{@st66b}Item{/}
 UI_20161214_002494	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transcendence level increases by 1(Max. 10){nl}- If failed, Transcendence level along with potential by 1(Transcendence level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}
 UI_20161214_002495	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracting Blessed Gems from Transcended Items{nl}- Ingredient for Blessed Gem Extraction : Hammer of Dismantlement{nl}- A portion of Blessed Gems used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}
 UI_20161214_002496	{@st66b}Save{/}
 UI_20161214_002497	{@st66b}Show Damage On Other Characters
-UI_20161214_002498	{@st59}Waehle einen Server.{/}
+UI_20161214_002498	{@st59}Wähle einen Server.{/}
 UI_20161214_002499	{@st59}Record FPS and Activate Replay.{/}
 UI_20161214_002500	Current
 UI_20161214_002501	Max.
 UI_20161214_002502	{@st66b}Learn
 UI_20161214_002503	{img white_right_arrow 24 24}{@st66d_y} Total Cost{/}
 UI_20161214_002504	{@brown_16}Guild Participation{/}
-UI_20161214_002505	{@black_18_b}Taeglich{/}
+UI_20161214_002505	{@black_18_b}Täglich{/}
 UI_20161214_002506	{@black_18_b}Weekly (Reset every monday){/}
 UI_20161214_002507	{@brown_16}Individual Participation{/}
 UI_20161214_002508	Guild Authority
