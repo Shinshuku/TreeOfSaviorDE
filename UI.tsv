@@ -2011,7 +2011,7 @@ UI_20151224_002011	{@st44}Klaipeda
 UI_20151224_002012	{@st59s}Eine, dank dem Kristallabbau, sehr fortschrittliche Stadt.{nl}Sie erlitt durch Medzio Diena nur geringe Schäden.{/}
 UI_20151224_002013	{@st44}Orsha
 UI_20151224_002014	{@st59s}Wir versuchten uns vor Medzio Diena schützen, indem wir uns auf das Schloss verliessen.{nl}Aber die schreckliche Katastrophe verschlang selbst das dieses.{/}
-UI_20151224_002015	{@st59}Kehre zu deiner Lodge zurueck.{/}
+UI_20151224_002015	{@st59}Kehre zu deiner Lodge zurück.{/}
 UI_20151224_002016	{@st43}{s24}Lodge-Name{/}
 UI_20151224_002017	{@st59}Lodge-Name{/}
 UI_20151224_002018	{@st59}Lodge Einstellungen{/}
@@ -2161,14 +2161,14 @@ UI_20160323_002161	INT : {@st41b}%s
 UI_20160323_002162	GES : {@st41b}%s
 UI_20160323_002163	SPR : {@st41b}%s
 UI_20160323_002164	{@st42}Haarfarbe{/}
-UI_20160323_002165	{@st42}Verfuegbare Titel{/}
+UI_20160323_002165	{@st42}Verfügbare Titel{/}
 UI_20160323_002166	Team Info
 UI_20160323_002167	{@st66b}Change Lodge{/}
 UI_20160323_002168	{@st43}{s26}Team Level %s{/}
 UI_20160323_002169	{@st66b}Team Info
 UI_20160323_002170	{#2c140c}Average Level : %s{/}
 UI_20160323_002171	{@st41b}Join
-UI_20160323_002172	{@st42} Character Greetings{/}
+UI_20160323_002172	{@st42} Charakterbegrüßung{/}
 UI_20160323_002173	[Server] Guild Name
 UI_20160323_002174	Record / Score
 UI_20160323_002175	[Created: %s ago]
@@ -2310,7 +2310,7 @@ UI_20160811_002310	{@st59}Wähle einen Server.{nl}Die Server Vakarine, Laima, Ze
 UI_20160811_002311	{@st66b}Move to other lodge
 UI_20160811_002312	{@st59}Move Lodge.{/}
 UI_20160811_002313	{@st59}Delete Companion
-UI_20160811_002314	Du fuehlst dich besser.
+UI_20160811_002314	Du fühlst dich besser.
 UI_20160811_002315	Carpet-type
 UI_20160811_002316	{@st42b}{s16}Charge{/}
 UI_20160811_002317	{@st66b}{s16}Preview{/}
