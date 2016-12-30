@@ -1767,38 +1767,38 @@ ITEM_20150317_001766	Empty_Boots
 ITEM_20150317_001767	Top
 ITEM_20150317_001768	Stamina +5 Potion
 ITEM_20150317_001769	Rechtsklick zum verwenden.
-ITEM_20150317_001770	Kleiner HP Trank
+ITEM_20150317_001770	Small HP Potion
 ITEM_20150317_001771	Stellt alle 2 Sekunden HP her. {nl}Über 15 Sekunden werden 192 HP wiederhergestellt. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit.
-ITEM_20150317_001772	HP Trank
+ITEM_20150317_001772	HP Potion
 ITEM_20150317_001773	Stellt alle 2 Sekunden HP her. {nl}Über 15 Sekunden werden 320 HP wiederhergestellt. {nl}Rechtsklick zum verwenden. 45 Sekunden Abklingzeit.
-ITEM_20150317_001774	Großer HP Trank
+ITEM_20150317_001774	Large HP Potion
 ITEM_20150317_001775	Stellt alle 2 Sekunden HP her. {nl}Über 15 Sekunden werden 640 HP wiederhergestellt. {nl}Rechtsklick zum verwenden. 60 Sekunden Abklingzeit.
-ITEM_20150317_001776	Kleiner SP Trank
+ITEM_20150317_001776	Small SP Potion
 ITEM_20150317_001777	Stellt alle 2 Sekunden SP her. {nl}Über 15 Sekunden werden 144 SP wiederhergestellt. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit.
 ITEM_20150317_001778	Stellt alle 2 Sekunden SP her. {nl}Über 15 Sekunden werden 240 SP wiederhergestellt. {nl}Rechtsklick zum verwenden. 45 Sekunden Abklingzeit.
-ITEM_20150317_001779	Großer SP Trank
+ITEM_20150317_001779	Large SP Potion
 ITEM_20150317_001780	Stellt alle 2 Sekunden SP her. {nl}Über 15 Sekunden werden 480 SP wiederhergestellt. {nl}Rechtsklick zum verwenden. 60 Sekunden Abklingzeit.
-ITEM_20150317_001781	Stamina Pille
+ITEM_20150317_001781	Stamina Pill
 ITEM_20150317_001782	Restores 15 Stamina. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit.
-ITEM_20150317_001783	STA Pille (Mittel)
+ITEM_20150317_001783	STA Pill (Medium)
 ITEM_20150317_001784	Restores 30 Stamina. {nl}Rechtsklick zum verwenden. 45 Sekunden Abklingzeit.
-ITEM_20150317_001785	STA Pille (Groß)
+ITEM_20150317_001785	STA Pill (Large)
 ITEM_20150317_001786	Stellt 40 Stamina wieder her. {nl}Rechtsklick zum verwenden. 60 Sekunden Abklingzeit.
-ITEM_20150317_001787	Kleiner Erholungstrank
+ITEM_20150317_001787	Small Recovery Potion
 ITEM_20150317_001788	Stellt alle 2 Sekunden HP/SP her. {nl}Über 15 Sekunden werden 224 HP und SP wiederhergestellt. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit.
-ITEM_20150317_001789	Erholungstrank
+ITEM_20150317_001789	Recovery Potion
 ITEM_20150317_001790	Stellt alle 2 Sekunden HP/SP her. {nl}Über 15 Sekunden werden 373 HP und SP wiederhergestellt. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit.
-ITEM_20150317_001791	Großer Erholungstrank
+ITEM_20150317_001791	Large Recovery Potion
 ITEM_20150317_001792	Stellt alle 2 Sekunden HP/SP her. {nl}Über 15 Sekunden werden 744 HP und SP wiederhergestellt. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit.
-ITEM_20150317_001793	STA +5 Trank
+ITEM_20150317_001793	STA +5 Potion
 ITEM_20150317_001794	Erhöht dein Stamina um 5.
 ITEM_20150317_001795	Red Kepa Piece
 ITEM_20150317_001796	Inflicts periodic Poison Damage (Lv1) to the monster when used.
 ITEM_20150317_001797	Can be only used on Beast-type monsters.
-ITEM_20150317_001798	HP Erholungstrank (Klein)
-ITEM_20150317_001799	SP Erholungstrank  (Klein)
-ITEM_20150317_001800	HP +5 Trank
-ITEM_20150317_001801	HP +10 Trank
+ITEM_20150317_001798	HP Recovery Potion (Small)
+ITEM_20150317_001799	SP Recovery Potion (Small)
+ITEM_20150317_001800	HP +5 Potion
+ITEM_20150317_001801	HP +10 Potion
 ITEM_20150317_001802	Movement Speed Potion
 ITEM_20150317_001803	Increases your movement speed by 5 for 180 seconds.{nl}Right-click to use. Cooldown of 30 seconds.
 ITEM_20150317_001804	Warp-Rolle
@@ -1894,38 +1894,38 @@ ITEM_20150317_001893	Lv6 EXP-Karte
 ITEM_20150317_001894	Erhalte 12000 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
 ITEM_20150317_001895	Lv7 EXP-Karte
 ITEM_20150317_001896	Erhalte 24000 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001897	HP Stärkungstrank
+ITEM_20150317_001897	HP Increase Potion
 ITEM_20150317_001898	Erhöht deine HP dauerhaft um 30. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001899	SP Stärkungstrank
+ITEM_20150317_001899	SP Increase Potion
 ITEM_20150317_001900	Erhöht deine SP dauerhaft um 20. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001901	Stamina Stärkungstrank
+ITEM_20150317_001901	Stamina Increase Potion
 ITEM_20150317_001902	Erhöht dein maximales Stamina dauerhaft um 5. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001903	Traglast Stärkungstrank
+ITEM_20150317_001903	Weight Increase Potion
 ITEM_20150317_001904	Erhöht deine maximale Traglast dauerhaft um 100. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001905	Kleiner HP Trank
-ITEM_20150317_001906	Basis HP Potion Supply
-ITEM_20150317_001907	Großer HP Trank
-ITEM_20150317_001908	Kleiner SP Trank
-ITEM_20150317_001909	SP Trank
-ITEM_20150317_001910	Großer SP Trank
-ITEM_20150317_001911	Basis Stamina Pille
-ITEM_20150317_001912	Basis STA Trank (Mittel)
-ITEM_20150317_001913	Basis STA Trank (Groß)
-ITEM_20150317_001914	Basis Kleiner Erholungstrank
-ITEM_20150317_001915	Basis Erholungstrank
-ITEM_20150317_001916	Basis Großer Erholungstrank
-ITEM_20150317_001917	Basis Movement Speed Potion
-ITEM_20150317_001918	STR Erhöhungstrank
+ITEM_20150317_001905	Basic Small HP Potion
+ITEM_20150317_001906	Basic HP Potion Supply
+ITEM_20150317_001907	Basic Large HP Potion
+ITEM_20150317_001908	Basic Small SP Potion
+ITEM_20150317_001909	Basic SP Potion
+ITEM_20150317_001910	Basic Large SP Potion
+ITEM_20150317_001911	Basic Stamina Pill
+ITEM_20150317_001912	Basic STA Potion (Medium)
+ITEM_20150317_001913	Basic STA Potion (Large)
+ITEM_20150317_001914	Basic Small Recovery Potion
+ITEM_20150317_001915	Basic Recovery Potion
+ITEM_20150317_001916	Basic Large Recovery Potion
+ITEM_20150317_001917	Basic Movement Speed Potion
+ITEM_20150317_001918	STR Increase Potion
 ITEM_20150317_001919	Erhöht deine STR dauerhaft um 1. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001920	GES Erhöhungstrank
+ITEM_20150317_001920	GES Increase Potion
 ITEM_20150317_001921	Erhöht deine GES dauerhaft um 1. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001922	KON Erhöhungstrank
+ITEM_20150317_001922	KON Increase Potion
 ITEM_20150317_001923	Erhoeht deine KON dauerhaft um by 1. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001924	INT Erhöhungstrank
+ITEM_20150317_001924	INT Increase Potion
 ITEM_20150317_001925	Erhoeht deine INT dauerhaft um by 1. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001926	SPR Erhöhungstrank
+ITEM_20150317_001926	SPR Increase Potion
 ITEM_20150317_001927	Erhöht deine SPR dauerhaft um by 1. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001928	Status Erhöhungstrank
+ITEM_20150317_001928	Status Increase Potion
 ITEM_20150317_001929	Erhalte 1 Statuspunkt. Rechtsklick zum verwenden.
 ITEM_20150317_001930	Erhöht deine maximale Traglast dauerhaft um 50. {nl}Rechtsklick zum verwenden.
 ITEM_20150317_001931	Cooldown Time Potion (CBT Test Purposes)
@@ -2099,7 +2099,7 @@ ITEM_20150317_002098	Lv4 Treasure Chest Key
 ITEM_20150317_002099	A key to open a Lv4 Treasure Chest.
 ITEM_20150317_002100	Lv5 Treasure Chest Key
 ITEM_20150317_002101	A key to open a Lv5 Treasure Chest.
-ITEM_20150317_002102	Kepa Stiel
+ITEM_20150317_002102	Kepa Stem
 ITEM_20150317_002103	Item obtained from a monster.
 ITEM_20150317_002104	Ein langer Stiel, der leicht scharf schmeckt. {nl}Kann von Kepas erhalten werden.
 ITEM_20150317_002105	Leaf Bug Shell
