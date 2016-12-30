@@ -1766,44 +1766,44 @@ ITEM_20150317_001765	Empty_Gloves
 ITEM_20150317_001766	Empty_Boots
 ITEM_20150317_001767	Top
 ITEM_20150317_001768	Stamina +5 Potion
-ITEM_20150317_001769	Right-click to use.
-ITEM_20150317_001770	Small HP Potion
-ITEM_20150317_001771	Restores HP every 2 seconds. {nl}192 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 30 seconds.
-ITEM_20150317_001772	HP Potion
-ITEM_20150317_001773	Restores HP every 2 seconds. {nl}320 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20150317_001774	Large HP Potion
-ITEM_20150317_001775	Restores HP every 2 seconds. {nl}640 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 60 seconds.
-ITEM_20150317_001776	Small SP Potion
-ITEM_20150317_001777	Restores SP every 2 seconds. {nl}144 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 30 seconds.
-ITEM_20150317_001778	Restores SP every 2 seconds. {nl}240 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20150317_001779	Large SP Potion
-ITEM_20150317_001780	Restores SP every 2 seconds. {nl}480 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 60 seconds.
-ITEM_20150317_001781	Stamina Pill
-ITEM_20150317_001782	Restores 15 Stamina. {nl}Right-click to use. Cooldown of 30 seconds.
-ITEM_20150317_001783	STA Pill (Medium)
-ITEM_20150317_001784	Restores 30 Stamina. {nl}Right-click to use. Cooldown of 45 seconds.
-ITEM_20150317_001785	STA Pill (Large)
-ITEM_20150317_001786	Restores 40 Stamina. {nl}Right-click to use. Cooldown of 60 seconds.
-ITEM_20150317_001787	Small Recovery Potion
-ITEM_20150317_001788	Restores HP and SP every 2 seconds. {nl}224 HP and SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 30 seconds.
-ITEM_20150317_001789	Recovery Potion
-ITEM_20150317_001790	Restores HP and SP every 2 seconds. {nl}373 HP and SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 30 seconds.
-ITEM_20150317_001791	Large Recovery Potion
-ITEM_20150317_001792	Restores HP and SP every 2 seconds. {nl}744 HP and SP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 30 seconds.
-ITEM_20150317_001793	STA +5 Potion
-ITEM_20150317_001794	Increases your Stamina by 5.
+ITEM_20150317_001769	Rechtsklick zum verwenden.
+ITEM_20150317_001770	Kleiner HP Trank
+ITEM_20150317_001771	Stellt alle 2 Sekunden HP her. {nl}Über 15 Sekunden werden 192 HP wiederhergestellt. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit.
+ITEM_20150317_001772	HP Trank
+ITEM_20150317_001773	Stellt alle 2 Sekunden HP her. {nl}Über 15 Sekunden werden 320 HP wiederhergestellt. {nl}Rechtsklick zum verwenden. 45 Sekunden Abklingzeit.
+ITEM_20150317_001774	Großer HP Trank
+ITEM_20150317_001775	Stellt alle 2 Sekunden HP her. {nl}Über 15 Sekunden werden 640 HP wiederhergestellt. {nl}Rechtsklick zum verwenden. 60 Sekunden Abklingzeit.
+ITEM_20150317_001776	Kleiner SP Trank
+ITEM_20150317_001777	Stellt alle 2 Sekunden SP her. {nl}Über 15 Sekunden werden 144 SP wiederhergestellt. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit.
+ITEM_20150317_001778	Stellt alle 2 Sekunden SP her. {nl}Über 15 Sekunden werden 240 SP wiederhergestellt. {nl}Rechtsklick zum verwenden. 45 Sekunden Abklingzeit.
+ITEM_20150317_001779	Großer SP Trank
+ITEM_20150317_001780	Stellt alle 2 Sekunden SP her. {nl}Über 15 Sekunden werden 480 SP wiederhergestellt. {nl}Rechtsklick zum verwenden. 60 Sekunden Abklingzeit.
+ITEM_20150317_001781	Stamina Pille
+ITEM_20150317_001782	Restores 15 Stamina. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit.
+ITEM_20150317_001783	STA Pille (Mittel)
+ITEM_20150317_001784	Restores 30 Stamina. {nl}Rechtsklick zum verwenden. 45 Sekunden Abklingzeit.
+ITEM_20150317_001785	STA Pille (Groß)
+ITEM_20150317_001786	Stellt 40 Stamina wieder her. {nl}Rechtsklick zum verwenden. 60 Sekunden Abklingzeit.
+ITEM_20150317_001787	Kleiner Erholungstrank
+ITEM_20150317_001788	Stellt alle 2 Sekunden HP/SP her. {nl}Über 15 Sekunden werden 224 HP und SP wiederhergestellt. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit.
+ITEM_20150317_001789	Erholungstrank
+ITEM_20150317_001790	Stellt alle 2 Sekunden HP/SP her. {nl}Über 15 Sekunden werden 373 HP und SP wiederhergestellt. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit.
+ITEM_20150317_001791	Großer Erholungstrank
+ITEM_20150317_001792	Stellt alle 2 Sekunden HP/SP her. {nl}Über 15 Sekunden werden 744 HP und SP wiederhergestellt. {nl}Rechtsklick zum verwenden. 30 Sekunden Abklingzeit.
+ITEM_20150317_001793	STA +5 Trank
+ITEM_20150317_001794	Erhöht dein Stamina um 5.
 ITEM_20150317_001795	Red Kepa Piece
 ITEM_20150317_001796	Inflicts periodic Poison Damage (Lv1) to the monster when used.
 ITEM_20150317_001797	Can be only used on Beast-type monsters.
-ITEM_20150317_001798	HP Recovery Potion (Small)
-ITEM_20150317_001799	SP Recovery Potion (Small)
-ITEM_20150317_001800	HP +5 Potion
-ITEM_20150317_001801	HP +10 Potion
+ITEM_20150317_001798	HP Erholungstrank (Klein)
+ITEM_20150317_001799	SP Erholungstrank  (Klein)
+ITEM_20150317_001800	HP +5 Trank
+ITEM_20150317_001801	HP +10 Trank
 ITEM_20150317_001802	Movement Speed Potion
 ITEM_20150317_001803	Increases your movement speed by 5 for 180 seconds.{nl}Right-click to use. Cooldown of 30 seconds.
-ITEM_20150317_001804	Warp Scroll
+ITEM_20150317_001804	Warp-Rolle
 ITEM_20150317_001805	Allows you to warp to any activated Goddess Statue. Your current location will be saved at a Goddess Statue.
-ITEM_20150317_001806	Companion Food
+ITEM_20150317_001806	Begleiterfutter
 ITEM_20150317_001807	Restores Velheider's Stamina by 30.
 ITEM_20150317_001808	Varnalesa
 ITEM_20150317_001809	Restores 32~35 SP. Easy to acquire.{nl}Right-click to use.
@@ -1868,11 +1868,11 @@ ITEM_20150317_001867	Catacombs Mission Warp Stone
 ITEM_20150317_001868	Garlic
 ITEM_20150317_001869	Popolion Meat
 ITEM_20150317_001870	Restores 350~400 SP. A well-known delicacy among food connoisseurs. {nl}Right-click to use.
-ITEM_20150317_001871	Klaipeda Warp Scroll
-ITEM_20150317_001872	Teleports you to Klaipeda. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001871	Klaipeda Warp-Rolle
+ITEM_20150317_001872	Teleportiert dich nach Klaipeda. {nl}Rechtsklick zum verwenden.
 ITEM_20150317_001873	TP Box
-ITEM_20150317_001874	Contains 1 TP. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001875	Cures the [Poison] status ailment.
+ITEM_20150317_001874	Enthält 1 TP. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001875	Heilt [Gift] status ailment.
 ITEM_20150317_001876	Velheider's Food
 ITEM_20150317_001877	Velheider's favorite food. Completely restores your companion's HP and restores their Stamina by 30.
 ITEM_20150317_001878	Hoglan's Food
@@ -1894,40 +1894,40 @@ ITEM_20150317_001893	Lv6 EXP-Karte
 ITEM_20150317_001894	Erhalte 12000 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
 ITEM_20150317_001895	Lv7 EXP-Karte
 ITEM_20150317_001896	Erhalte 24000 EXP. {nl}50% Chance einen EXP Bonus zu erhalten. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001897	HP Staerkungstrank
-ITEM_20150317_001898	Erhoeht deine HP dauerhaft um 30. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001899	SP Staerkungstrank
-ITEM_20150317_001900	Erhoeht deine SP dauerhaft um 20. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001901	Stamina Staerkungstrank
-ITEM_20150317_001902	Erhoeht dein maximales Stamina dauerhaft um 5. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001903	Traglast Staerkungstrank
-ITEM_20150317_001904	Erhoeht deine maximale Traglast dauerhaft um 100. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001897	HP Stärkungstrank
+ITEM_20150317_001898	Erhöht deine HP dauerhaft um 30. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001899	SP Stärkungstrank
+ITEM_20150317_001900	Erhöht deine SP dauerhaft um 20. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001901	Stamina Stärkungstrank
+ITEM_20150317_001902	Erhöht dein maximales Stamina dauerhaft um 5. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001903	Traglast Stärkungstrank
+ITEM_20150317_001904	Erhöht deine maximale Traglast dauerhaft um 100. {nl}Rechtsklick zum verwenden.
 ITEM_20150317_001905	Kleiner HP Trank
-ITEM_20150317_001906	Basic HP Potion Supply
+ITEM_20150317_001906	Basis HP Potion Supply
 ITEM_20150317_001907	Großer HP Trank
 ITEM_20150317_001908	Kleiner SP Trank
 ITEM_20150317_001909	SP Trank
 ITEM_20150317_001910	Großer SP Trank
-ITEM_20150317_001911	Basic Stamina Pill
-ITEM_20150317_001912	Basic STA Potion (Mittel)
-ITEM_20150317_001913	Basic STA Potion (Groß)
-ITEM_20150317_001914	Basic Small Recovery Potion
-ITEM_20150317_001915	Basic Recovery Potion
-ITEM_20150317_001916	Basic Large Recovery Potion
-ITEM_20150317_001917	Basic Movement Speed Potion
-ITEM_20150317_001918	STR Erhoeungstrank
-ITEM_20150317_001919	Erhoeht deine STR dauerhaft um 1. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001920	GES Erhoeungstrank
-ITEM_20150317_001921	Erhoeht deine GES dauerhaft um 1. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001922	KON Erhoeungstrank
+ITEM_20150317_001911	Basis Stamina Pille
+ITEM_20150317_001912	Basis STA Trank (Mittel)
+ITEM_20150317_001913	Basis STA Trank (Groß)
+ITEM_20150317_001914	Basis Kleiner Erholungstrank
+ITEM_20150317_001915	Basis Erholungstrank
+ITEM_20150317_001916	Basis Großer Erholungstrank
+ITEM_20150317_001917	Basis Movement Speed Potion
+ITEM_20150317_001918	STR Erhöhungstrank
+ITEM_20150317_001919	Erhöht deine STR dauerhaft um 1. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001920	GES Erhöhungstrank
+ITEM_20150317_001921	Erhöht deine GES dauerhaft um 1. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001922	KON Erhöhungstrank
 ITEM_20150317_001923	Erhoeht deine KON dauerhaft um by 1. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001924	INT Erhoeungstrank
+ITEM_20150317_001924	INT Erhöhungstrank
 ITEM_20150317_001925	Erhoeht deine INT dauerhaft um by 1. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001926	SPR Erhoeungstrank
-ITEM_20150317_001927	Erhoeht deine SPR dauerhaft um by 1. {nl}Rechtsklick zum verwenden.
-ITEM_20150317_001928	Status Erhoeungstrank
+ITEM_20150317_001926	SPR Erhöhungstrank
+ITEM_20150317_001927	Erhöht deine SPR dauerhaft um by 1. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001928	Status Erhöhungstrank
 ITEM_20150317_001929	Erhalte 1 Statuspunkt. Rechtsklick zum verwenden.
-ITEM_20150317_001930	Erhoeht deine maximale Traglast dauerhaft um 50. {nl}Rechtsklick zum verwenden.
+ITEM_20150317_001930	Erhöht deine maximale Traglast dauerhaft um 50. {nl}Rechtsklick zum verwenden.
 ITEM_20150317_001931	Cooldown Time Potion (CBT Test Purposes)
 ITEM_20150317_001932	Reduce the cooldown duration of all skills by 50% for 10 minutes. {nl}Rechtsklick zum verwenden. Cooldown of 10 minutes.
 ITEM_20150317_001933	Status Reset Scroll (CBT Test Purposes)
@@ -1962,126 +1962,126 @@ ITEM_20150317_001961	Cockatrice Collection
 ITEM_20150317_001962	Devil Collection
 ITEM_20150317_001963	Tenet Church Collection
 ITEM_20150317_001964	Spirit Collection
-ITEM_20150317_001965	Lv1 Card Collection
-ITEM_20150317_001966	Lv2 Card Collection
-ITEM_20150317_001967	Lv3 Card Collection
-ITEM_20150317_001968	Lv4 Card Collection
+ITEM_20150317_001965	Lv1 Kartensammlung
+ITEM_20150317_001966	Lv2 Kartensammlung
+ITEM_20150317_001967	Lv3 Kartensammlung
+ITEM_20150317_001968	Lv4 Kartensammlung
 ITEM_20150317_001969	Practice Anvil
 ITEM_20150317_001970	You can improve the ability of an item by placing and hammering it on this anvil. {nl}Purchasable from Item Merchant.{nl}Right-click to use.
 ITEM_20150317_001971	Gaigalas Card
 ITEM_20150317_001972	Card
 ITEM_20150317_001973	A card containing the power of a strong monster.
-ITEM_20150317_001974	Gazing Golem Card
-ITEM_20150317_001975	Gorgon Card
-ITEM_20150317_001976	Golem Card
-ITEM_20150317_001977	Grinender Card
-ITEM_20150317_001978	Glass Mole Card
-ITEM_20150317_001979	Ginklas Card
-ITEM_20150317_001980	Netherbovine Card
-ITEM_20150317_001981	Necroventer Card
-ITEM_20150317_001982	Deadborn Card
-ITEM_20150317_001983	Cursed Devilglove Card
-ITEM_20150317_001984	Denoptic Card
-ITEM_20150317_001985	Ravinepede Card
-ITEM_20150317_001986	Rajatoad Card
-ITEM_20150317_001987	Rocktortuga Card
-ITEM_20150317_001988	Rexipher Card
-ITEM_20150317_001989	Reaverpede Card
-ITEM_20150317_001990	Rikaus Card
-ITEM_20150317_001991	Mineloader Card
-ITEM_20150317_001992	Mallet Wyvern Card
-ITEM_20150317_001993	Magburk Card
-ITEM_20150317_001994	Manticen Card
-ITEM_20150317_001995	Mummyghast Card
-ITEM_20150317_001996	Mushcaria Card
-ITEM_20150317_001997	Merge Card
-ITEM_20150317_001998	Mothstem Card
-ITEM_20150317_001999	Moa Card
-ITEM_20150317_002000	Moyabruka Card
-ITEM_20150317_002001	Moldyhorn Card
-ITEM_20150317_002002	Molich Card
-ITEM_20150317_002003	Minotaur Card
-ITEM_20150317_002004	Mirtis Card
-ITEM_20150317_002005	Bebraspion Card
-ITEM_20150317_002006	Bearkaras Card
-ITEM_20150317_002007	Velorchard Card
-ITEM_20150317_002008	Vubbe Fighter Card
-ITEM_20150317_002009	Red Vubbe Fighter Card
-ITEM_20150317_002010	Bramble Card
-ITEM_20150317_002011	Biteregina Card
-ITEM_20150317_002012	Cyclops Card
-ITEM_20150317_002013	Saltistter Card
-ITEM_20150317_002014	Salamander Card
-ITEM_20150317_002015	Shadowgaler Card
-ITEM_20150317_002016	Stone Whale Card
-ITEM_20150317_002017	Shnayim Card
-ITEM_20150317_002018	Scorpio Card
-ITEM_20150317_002019	Specter Monarch Card
-ITEM_20150317_002020	Throneweaver Card
-ITEM_20150317_002021	Ironbaum Card
-ITEM_20150317_002022	Archon Card
-ITEM_20150317_002023	Abomination Card
-ITEM_20150317_002024	Unknocker Card
-ITEM_20150317_002025	Achat Card
-ITEM_20150317_002026	Ellaganos Card
-ITEM_20150317_002027	Yekub Card
-ITEM_20150317_002028	Yonazolem Card
-ITEM_20150317_002029	Werewolf Card
-ITEM_20150317_002030	Unicorn Card
-ITEM_20150317_002031	Iltiswort Card
-ITEM_20150317_002032	Giant Red Wood Goblin Card
-ITEM_20150317_002033	Giant Wood Goblin Card
-ITEM_20150317_002034	Chapparition Card
-ITEM_20150317_002035	Chafer Card
-ITEM_20150317_002036	Carapace Card
-ITEM_20150317_002037	Kepa Chieftain Card
-ITEM_20150317_002038	Colimencia Card
-ITEM_20150317_002039	Clymen Card
-ITEM_20150317_002040	Kirmeleech Card
-ITEM_20150317_002041	Tutu Card
-ITEM_20150317_002042	Tomb Lord Card
-ITEM_20150317_002043	Poata Card
-ITEM_20150317_002044	Sequoia Card
-ITEM_20150317_002045	Harpeia Card
-ITEM_20150317_002046	Honeypin Card
-ITEM_20150317_002047	Helgasercle Card
-ITEM_20150317_002048	Specter of Deceit Card
-ITEM_20150317_002049	Hydra Card
-ITEM_20150317_002050	Rajapearl Card
-ITEM_20150317_002051	Corrupted Card
-ITEM_20150317_002052	Lepus Card
-ITEM_20150317_002053	Sparnas Card
-ITEM_20150317_002054	Sparnasman Card
-ITEM_20150317_002055	Cerberus Card
-ITEM_20150317_002056	Capria Card
-ITEM_20150317_002057	Nepenthes Card
-ITEM_20150317_002058	Simorph Card
-ITEM_20150317_002059	Gray Golem Card
-ITEM_20150317_002060	Naktis Card
-ITEM_20150317_002061	Linkroller Card
-ITEM_20150317_002062	Dullahan Card
-ITEM_20150317_002063	Riteris Card
-ITEM_20150317_002064	Nuaele Card
-ITEM_20150317_002065	Neop Card
-ITEM_20150317_002066	Blut Card
-ITEM_20150317_002067	Glackuman Card
-ITEM_20150317_002068	Tetraox Card
-ITEM_20150317_002069	Basilisk Card
-ITEM_20150317_002070	Gremlin Card
-ITEM_20150317_002071	Plokste Card
-ITEM_20150317_002072	Wood Houngan Card
-ITEM_20150317_002073	Velnewt Card
-ITEM_20150317_002074	Velpede Card
-ITEM_20150317_002075	Pyroego Card
-ITEM_20150317_002076	Mandara Card
-ITEM_20150317_002077	Lithorex Card
-ITEM_20150317_002078	Nuodai Card
-ITEM_20150317_002079	Centaurus Card
-ITEM_20150317_002080	Yeti Card
-ITEM_20150317_002081	Progola Card
-ITEM_20150317_002082	Marionette Card
-ITEM_20150317_002083	Canceril Card
-ITEM_20150317_002084	Crabil Card
+ITEM_20150317_001974	Gazing Golem Karte
+ITEM_20150317_001975	Gorgon Karte
+ITEM_20150317_001976	Golem Karte
+ITEM_20150317_001977	Grinender Karte
+ITEM_20150317_001978	Glass Mole Karte
+ITEM_20150317_001979	Ginklas Karte
+ITEM_20150317_001980	Netherbovine Karte
+ITEM_20150317_001981	Necroventer Karte
+ITEM_20150317_001982	Deadborn Karte
+ITEM_20150317_001983	Cursed Devilglove Karte
+ITEM_20150317_001984	Denoptic Karte
+ITEM_20150317_001985	Ravinepede Karte
+ITEM_20150317_001986	Rajatoad Karte
+ITEM_20150317_001987	Rocktortuga Karte
+ITEM_20150317_001988	Rexipher Karte
+ITEM_20150317_001989	Reaverpede Karte
+ITEM_20150317_001990	Rikaus Karte
+ITEM_20150317_001991	Mineloader Karte
+ITEM_20150317_001992	Mallet Wyvern Karte
+ITEM_20150317_001993	Magburk Karte
+ITEM_20150317_001994	Manticen Karte
+ITEM_20150317_001995	Mummyghast Karte
+ITEM_20150317_001996	Mushcaria Karte
+ITEM_20150317_001997	Merge Karte
+ITEM_20150317_001998	Mothstem Karte
+ITEM_20150317_001999	Moa Karte
+ITEM_20150317_002000	Moyabruka Karte
+ITEM_20150317_002001	Moldyhorn Karte
+ITEM_20150317_002002	Molich Karte
+ITEM_20150317_002003	Minotaur Karte
+ITEM_20150317_002004	Mirtis Karte
+ITEM_20150317_002005	Bebraspion Karte
+ITEM_20150317_002006	Bearkaras Karte
+ITEM_20150317_002007	Velorchard Karte
+ITEM_20150317_002008	Vubbe Fighter Karte
+ITEM_20150317_002009	Red Vubbe Fighter Karte
+ITEM_20150317_002010	Bramble Karte
+ITEM_20150317_002011	Biteregina Karte
+ITEM_20150317_002012	Cyclops Karte
+ITEM_20150317_002013	Saltistter Karte
+ITEM_20150317_002014	Salamander Karte
+ITEM_20150317_002015	Shadowgaler Karte
+ITEM_20150317_002016	Stone Whale Karte
+ITEM_20150317_002017	Shnayim Karte
+ITEM_20150317_002018	Scorpio Karte
+ITEM_20150317_002019	Specter Monarch Karte
+ITEM_20150317_002020	Throneweaver Karte
+ITEM_20150317_002021	Ironbaum Karte
+ITEM_20150317_002022	Archon Karte
+ITEM_20150317_002023	Abomination Karte
+ITEM_20150317_002024	Unknocker Karte
+ITEM_20150317_002025	Achat Karte
+ITEM_20150317_002026	Ellaganos Karte
+ITEM_20150317_002027	Yekub Karte
+ITEM_20150317_002028	Yonazolem Karte
+ITEM_20150317_002029	Werewolf Karte
+ITEM_20150317_002030	Unicorn Karte
+ITEM_20150317_002031	Iltiswort Karte
+ITEM_20150317_002032	Giant Red Wood Goblin Karte
+ITEM_20150317_002033	Giant Wood Goblin Karte
+ITEM_20150317_002034	Chapparition Karte
+ITEM_20150317_002035	Chafer Karte
+ITEM_20150317_002036	Carapace Karte
+ITEM_20150317_002037	Kepa Chieftain Karte
+ITEM_20150317_002038	Colimencia Karte
+ITEM_20150317_002039	Clymen Karte
+ITEM_20150317_002040	Kirmeleech Karte
+ITEM_20150317_002041	Tutu Karte
+ITEM_20150317_002042	Tomb Lord Karte
+ITEM_20150317_002043	Poata Karte
+ITEM_20150317_002044	Sequoia Karte
+ITEM_20150317_002045	Harpeia Karte
+ITEM_20150317_002046	Honeypin Karte
+ITEM_20150317_002047	Helgasercle Karte
+ITEM_20150317_002048	Specter of Deceit Karte
+ITEM_20150317_002049	Hydra Karte
+ITEM_20150317_002050	Rajapearl Karte
+ITEM_20150317_002051	Corrupted Karte
+ITEM_20150317_002052	Lepus Karte
+ITEM_20150317_002053	Sparnas Karte
+ITEM_20150317_002054	Sparnasman Karte
+ITEM_20150317_002055	Cerberus Karte
+ITEM_20150317_002056	Capria Karte
+ITEM_20150317_002057	Nepenthes Karte
+ITEM_20150317_002058	Simorph Karte
+ITEM_20150317_002059	Gray Golem Karte
+ITEM_20150317_002060	Naktis Karte
+ITEM_20150317_002061	Linkroller Karte
+ITEM_20150317_002062	Dullahan Karte
+ITEM_20150317_002063	Riteris Karte
+ITEM_20150317_002064	Nuaele Karte
+ITEM_20150317_002065	Neop Karte
+ITEM_20150317_002066	Blut Karte
+ITEM_20150317_002067	Glackuman Karte
+ITEM_20150317_002068	Tetraox Karte
+ITEM_20150317_002069	Basilisk Karte
+ITEM_20150317_002070	Gremlin Karte
+ITEM_20150317_002071	Plokste Karte
+ITEM_20150317_002072	Wood Houngan Karte
+ITEM_20150317_002073	Velnewt Karte
+ITEM_20150317_002074	Velpede Karte
+ITEM_20150317_002075	Pyroego Karte
+ITEM_20150317_002076	Mandara Karte
+ITEM_20150317_002077	Lithorex Karte
+ITEM_20150317_002078	Nuodai Karte
+ITEM_20150317_002079	Centaurus Karte
+ITEM_20150317_002080	Yeti Karte
+ITEM_20150317_002081	Progola Karte
+ITEM_20150317_002082	Marionette Karte
+ITEM_20150317_002083	Canceril Karte
+ITEM_20150317_002084	Crabil Karte
 ITEM_20150317_002085	Megaphone
 ITEM_20150317_002086	Amplifies your voice. Use [/y 'chat'] to send your message to all maps in your server.{nl}Can be used from Lv. 40.
 ITEM_20150317_002087	Vubbe Magic Stone
@@ -2099,9 +2099,9 @@ ITEM_20150317_002098	Lv4 Treasure Chest Key
 ITEM_20150317_002099	A key to open a Lv4 Treasure Chest.
 ITEM_20150317_002100	Lv5 Treasure Chest Key
 ITEM_20150317_002101	A key to open a Lv5 Treasure Chest.
-ITEM_20150317_002102	Kepa Stem
+ITEM_20150317_002102	Kepa Stiel
 ITEM_20150317_002103	Item obtained from a monster.
-ITEM_20150317_002104	A long stem that tastes slightly spicy. {nl}Obtained from Kepas.
+ITEM_20150317_002104	Ein langer Stiel, der leicht scharf schmeckt. {nl}Kann von Kepas erhalten werden.
 ITEM_20150317_002105	Leaf Bug Shell
 ITEM_20150317_002106	A thin back shell. A faint pattern is visible. {nl}Obtained from Leaf Bugs.
 ITEM_20150317_002107	Chinency Leaf
