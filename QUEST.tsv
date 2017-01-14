@@ -46,7 +46,7 @@ QUEST_20150317_000045	Select GenType
 QUEST_20150317_000046	Select Coordinates
 QUEST_20150317_000047	Ritter Titas
 QUEST_20150317_000048	Wenn ja, gehe zum Kommandanten Uska in Klaipeda. {nl}Aber zuerst habe ich einen wichtigen Auftrag, also folge mir.
-QUEST_20150317_000049	It would be nice if I could find a moment to relax...
+QUEST_20150317_000049	Es wäre schön, wenn ich einen Moment entspannen könnte...
 QUEST_20150317_000050	Sparnas... {nl}is not someone to take lightly...
 QUEST_20150317_000051	Soldat Moody
 QUEST_20150317_000052	Lass uns zuerst diese Monster erledigen, bevor wir reden.
@@ -59,8 +59,8 @@ QUEST_20150317_000058	Up until four years ago, the goddesses often blessed us wi
 QUEST_20150317_000059	Vacenin personally goes to each region to deal with things. {nl}He gets uncomfortable when he stays in the city.
 QUEST_20150317_000060	Do you plan on staying or enlisting? {nl}If you're interested, I'll gladly recommend you to the head commanders.
 QUEST_20150317_000061	Sei immer auf der Hut. {nl}Monster können jederzeit und überall auftauchen.
-QUEST_20150317_000062	Where in the world did Goddess Zemyna go...
-QUEST_20150317_000063	What in the world do you call this?
+QUEST_20150317_000062	Wohin ging Göttin Zemyna...
+QUEST_20150317_000063	Wie zur Hölle würdest du das hier nennen???
 QUEST_20150317_000064	I think Zemyna, the goddess of the earth would grieve more than anyone else.
 QUEST_20150317_000065	The Pokubu have always been here, but sometimes unfamiliar monsters are spotted as well.
 QUEST_20150317_000066	I've thought about it. There's no doubt that the goddesses have abandoned us all. {nl}If that weren't so, then there wouldn't be so many monsters.
@@ -117,19 +117,19 @@ QUEST_20150317_000116	3. Abgeschlossene Bereiche nicht betreten. {nl}4. Verdäch
 QUEST_20150317_000116 5. Nichts anfassen!
 QUEST_20150317_000117	Supply Base Soldier
 QUEST_20150317_000118	I've never been in a real fight before so I'm a bit nervous.
-QUEST_20150317_000119	Farm Sentinel
+QUEST_20150317_000119	Wache
 QUEST_20150317_000120	My colleague is in the middle of a battle at the Miners' Village. {nl}I've thought of going to help, but the Eastern Woods is in trouble as well, so all I can do is worry.
 QUEST_20150317_000121	I think this mission has shown me enough monsters for a lifetime. {nl}It used to be just groups of Vubbes.
 QUEST_20150317_000122	Chupacabras are fond of the streams and lush vegetation of the northern area.
-QUEST_20150317_000123	Klaipeda Guard Captain
-QUEST_20150317_000124	You're the...
+QUEST_20150317_000123	Oberst der Klaipeda-Wache
+QUEST_20150317_000124	Du bist...
 QUEST_20150317_000125	It looks like you can see into the upper forest from here. {nl}Try not to get into trouble.
 QUEST_20150317_000126	You don't have the required quest item. Are you sure you want to continue?
-QUEST_20150317_000127	Klaipeda Girl
+QUEST_20150317_000127	Mädchen aus Klaipeda
 QUEST_20150317_000128	My neighbor used to be a monster hunter. {nl}He's retired now though. It has gotten extremely dangerous.
 QUEST_20150317_000129	It would be nice if all these Revelators being here meant that the goddesses are back.
 QUEST_20150317_000130	It might be silly to hope for the goddess' return, but it's better than nothing.
-QUEST_20150317_000131	Klaipeda Lady
+QUEST_20150317_000131	Dame aus Klaipeda
 QUEST_20150317_000132	We can still grow from the land, and have a warm hearth at our homes to rest at. {nl}I will always believe the goddesses are somewhere in the world.
 QUEST_20150317_000133	Keep faith. {nl}The goddesses may still send a Savior to us.
 QUEST_20150317_000134	Hoplite Master
@@ -152,7 +152,7 @@ QUEST_20150317_000150	Corsair Master
 QUEST_20150317_000151	I won't help anyone in trouble if there isn't anything in it for me.
 QUEST_20150317_000152	Boulder
 QUEST_20150317_000153	A large boulder is blocking the way.
-QUEST_20150317_000154	(This needs to be repaired.)
+QUEST_20150317_000154	(Das muss repariert werden.)
 QUEST_20150317_000155	A boulder blocks the way.
 QUEST_20150317_000156	Magical Research Material
 QUEST_20150317_000157	It appears to be someone's research notes from Mage Tower. {nl}Should it be copied?
@@ -188,13 +188,13 @@ QUEST_20150317_000186	All this, was to protect the revelation hidden in the sanc
 QUEST_20150317_000187	The Holy Relic was originally made to protect the revelation as a bait. {nl}With it, we will lure the Demon Queen here and destroy her.
 QUEST_20150317_000188	Anything can happen though. {nl}If the plan fails, then the final battle will likely happen in the Tenet Church.
 QUEST_20150317_000189	Pawndel
-QUEST_20150317_000190	What's up?
-QUEST_20150317_000191	Really?
+QUEST_20150317_000190	Was gibt's?
+QUEST_20150317_000191	Wirklich?
 QUEST_20150317_000192	Pawnd
-QUEST_20150317_000193	What happened?
+QUEST_20150317_000193	Was ist passiert?
 QUEST_20150317_000194	Gesti told us to protect this place.
-QUEST_20150317_000195	So what do I do now?
-QUEST_20150317_000196	Is this the right place?
+QUEST_20150317_000195	Was soll ich jetzt tun?
+QUEST_20150317_000196	Ist das hier der richtige Ort?
 QUEST_20150317_000197	Explaining
 QUEST_20150317_000198	Shared the details of the revelation fragment found in the Crystal Mine.
 QUEST_20150317_000199	I don't know how great you were in the past nor do I care. {nl}In here, you follow the Royal Army's orders, even you, Knights of Kaliss. {nl}In here, our word is law!
@@ -278,11 +278,11 @@ QUEST_20150317_000276	When I learned of it all, my remaining strength could not 
 QUEST_20150317_000277	The World Tree will continue to grow. {nl}To what end... is beyond my control.
 QUEST_20150317_000278	However, I doubt the plights I saw were the limits of all that will happen. {nl}I believe the seeds of change will come from you.
 QUEST_20150317_000279	I will end my long story here. The wise Maven will hold the next revelation. {nl}I quietly await for the day you reach the Great Cathedral.
-QUEST_20150317_000280	Goddess Gabija
+QUEST_20150317_000280	Göttin Gabija
 QUEST_20150317_000281	I thank you, Savior. {nl}If I had listened to Laima, I would not be regretting this day.
 QUEST_20150317_000282	Thanks to you, I have regained my strength, but it has only just begun. {nl}In return, I shall lure away the demons with a false revelation at the tower.
 QUEST_20150317_000283	Before that, I have something to tell you: {nl}Laima's story.
-QUEST_20150317_000284	Auctioneer
+QUEST_20150317_000284	Auktionator
 QUEST_20150317_000285	It ain't easy to get the good stuff. {nl}Merchants have been rethinking their routes thanks to the monsters around Klaipeda.
 QUEST_20150317_000286	The auction has started! {nl}We went through a lot of trouble to bring you these listed items. {nl}Let's start the bidding!
 QUEST_20150317_000287	These are the West Siauliai Woods. {nl}We should give a certain amount away when the villagers tend to the memorials, right?
@@ -312,13 +312,13 @@ QUEST_20150317_000310	The Fedimian Holy District welcomes you.
 QUEST_20150317_000311	Thank you so much for your efforts. We are going to investigate here one more time. {nl}Cheer up!
 QUEST_20150317_000312	Finished already? {nl}Amazing! You'd expect nothing less from a Revelator!
 QUEST_20150317_000313	It is said that if one receives too much good, he begins to believe it's his right. {nl}Maybe, we relied too much on the goddess.
-QUEST_20150317_000314	Soldier Pitt
+QUEST_20150317_000314	Soldat Pitt
 QUEST_20150317_000315	Are you the Revelator? {nl}It is such an honor to meet you!
-QUEST_20150317_000316	Soldier Bran
+QUEST_20150317_000316	Soldat Bran
 QUEST_20150317_000317	Ever since I was a kid, it's been my dream to fight at the front lines!
 QUEST_20150317_000318	Training Soldier Malt
 QUEST_20150317_000319	The number of monsters are not declining even after the Revelator tried so hard...
-QUEST_20150317_000320	Commander Raimondas
+QUEST_20150317_000320	Kommandant Raimondas
 QUEST_20150317_000321	Many people who claim to be Revelators come here. {nl}Are you one of them?
 QUEST_20150317_000322	I have met many Revelators, but I have never seen one quite like you. {nl}Well done. I hope we'll meet again someday.
 QUEST_20150317_000323	Herb Broker
@@ -328,7 +328,7 @@ QUEST_20150317_000326	Instructor Nicker
 QUEST_20150317_000327	If one soldier breaks a rule, then it may endanger the entire military. {nl}That's why we have to be very strict.
 QUEST_20150317_000328	I guess I'll admit it now. You, the Revelator, pursue the dream of the goddess. {nl}It's not going to be easy, but I believe you'll do well.
 QUEST_20150317_000329	Are you the Revelator? Good work, {nl}but I'm not quite sure I can trust you.
-QUEST_20150317_000330	Private Personnel
+QUEST_20150317_000330	Soldat Personnel
 QUEST_20150317_000331	To survive in this chaotic world, you'll sometimes need to use some dirty tricks. {nl}You shouldn't feel bad about it.
 QUEST_20150317_000332	If you want to get a job done quick, then do it yourself. {nl}That's why I became a soldier.
 QUEST_20150317_000333	I've heard many stories of heroes who fought for justice in my childhood, {nl}but I've always thought of them as just stories...{nl}Now I think heroes may exist.
@@ -346,7 +346,7 @@ QUEST_20150317_000344	Notice
 QUEST_20150317_000345	King Zachariel is buried here.
 QUEST_20150317_000346	This is the Holy District of Fedimian protected by Goddess Zemyna.
 QUEST_20150317_000347	Please do not enter; your safety is not guaranteed. {nl}For other questions, please see Liaison Officer Niels.
-QUEST_20150317_000348	Gravestone
+QUEST_20150317_000348	Grabstein
 QUEST_20150317_000349	It is unreadable. {nl}Let's ask the villager who is standing nearby.
 QUEST_20150317_000350	A Diary of a Soldier
 QUEST_20150317_000351	Found soldier's diary in the military backpack.
